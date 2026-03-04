@@ -1,0 +1,21 @@
+# open the file in a text editor
+nano .gitignore
+```
+
+Then type in what you want to ignore, for example:
+```
+# System files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Large data folders
+data/
+crops_simple/
+output/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
