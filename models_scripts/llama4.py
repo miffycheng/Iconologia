@@ -1,8 +1,10 @@
+import io
 import os
 import argparse
 import base64
 import json
 from pathlib import Path
+from PIL import Image
 from openai import OpenAI
 
 # --- Config ---
@@ -18,20 +20,19 @@ client = OpenAI(
     api_key=os.environ["HF_TOKEN"],  # or replace with your token string directly
 )
 
+MAX_IMAGE_PX = 1280  # longest side; keeps payload under API size limits
+
 def encode_image(image_path: str) -> tuple[str, str]:
-    """Encode image to base64 and detect media type."""
-    ext = Path(image_path).suffix.lower()
-    media_type_map = {
-        ".jpg": "image/jpeg",
-        ".jpeg": "image/jpeg",
-        ".png": "image/png",
-        ".webp": "image/webp",
-        ".bmp": "image/bmp",
-    }
-    media_type = media_type_map.get(ext, "image/jpeg")
-    with open(image_path, "rb") as f:
-        encoded = base64.b64encode(f.read()).decode("utf-8")
-    return encoded, media_type
+    """Resize if needed, then encode image to base64 as JPEG."""
+    img = Image.open(image_path).convert("RGB")
+    w, h = img.size
+    if max(w, h) > MAX_IMAGE_PX:
+        scale = MAX_IMAGE_PX / max(w, h)
+        img = img.resize((int(w * scale), int(h * scale)), Image.LANCZOS)
+    buf = io.BytesIO()
+    img.save(buf, format="JPEG", quality=85)
+    encoded = base64.b64encode(buf.getvalue()).decode("utf-8")
+    return encoded, "image/jpeg"
 
 def extract_text(image_path: str) -> str:
     """Send image to VLM and extract text."""
