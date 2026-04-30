@@ -59,25 +59,30 @@ def extract_text(image_path: str) -> str:
 
 def main():
     parser = argparse.ArgumentParser(description="OCR images using a VLM.")
-    parser.add_argument("image_folder", type=str, help="Path to the folder containing images")
+    parser.add_argument("image_path", type=str, help="Path to a single image file or a folder of images")
     args = parser.parse_args()
-    image_folder = Path(args.image_folder)
+    input_path = Path(args.image_path)
 
-    if not image_folder.exists():
-        print(f"❌ Folder not found: {image_folder}")
+    if not input_path.exists():
+        print(f"❌ Not found: {input_path}")
         return
 
-    # Get all supported images
-    image_files = [
-        f for f in image_folder.iterdir()
-        if f.suffix.lower() in SUPPORTED_EXTENSIONS
-    ]
+    if input_path.is_file():
+        if input_path.suffix.lower() not in SUPPORTED_EXTENSIONS:
+            print(f"❌ Unsupported file type '{input_path.suffix}'")
+            return
+        image_files = [input_path]
+    else:
+        image_files = [
+            f for f in input_path.iterdir()
+            if f.suffix.lower() in SUPPORTED_EXTENSIONS
+        ]
 
     if not image_files:
-        print(f"❌ No images found in {image_folder}")
+        print(f"❌ No images found in {input_path}")
         return
 
-    print(f"Found {len(image_files)} images. Starting OCR...\n")
+    print(f"Found {len(image_files)} image(s). Starting OCR...\n")
 
     results = {}
 
