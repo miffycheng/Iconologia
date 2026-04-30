@@ -7,7 +7,7 @@ from openai import OpenAI
 
 # --- Config ---
 SCRIPT_NAME = Path(__file__).stem
-OUTPUT_FILE = f"../ocr_results/ocr_results_{SCRIPT_NAME}.json"
+OUTPUT_FILE = Path(__file__).parent.parent / "ocr_results" / f"ocr_results_{SCRIPT_NAME}.json"
 SUPPORTED_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".bmp"}
 
 # --- Client ---

@@ -1,0 +1,10 @@
+# API-based VLM scripts: gemma.py, glm.py, llama4.py, qwen8B.py
+# No GPU needed — calls HuggingFace Inference Router.
+#
+# Install:
+#   pip install -r requirements_api.txt
+#
+# Then set your HuggingFace token:
+#   export HF_TOKEN=your_token_here
+
+openai

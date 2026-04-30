@@ -1,0 +1,10 @@
+# Local model: small-models-for-glam-2b.py
+# Runs Qwen3-VL-2B + CATMuS LoRA adapter on CPU. No GPU needed.
+#
+# Install:
+#   pip install -r requirements_local.txt
+
+torch
+transformers
+peft
+pillow

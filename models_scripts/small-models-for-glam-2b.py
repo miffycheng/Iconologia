@@ -95,7 +95,7 @@ def main():
     ])
 
     if not image_paths:
-        print(f"No images found in '{IMAGE_DIR}'")
+        print(f"No images found in '{args.image_dir}'")
         return
 
     print(f"Found {len(image_paths)} images to process.\n")

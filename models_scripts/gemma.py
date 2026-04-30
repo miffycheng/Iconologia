@@ -10,7 +10,7 @@ SUPPORTED_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".bmp"}
 
 # Output filename based on this script's name (e.g. gemma.py -> ocr_results_gemma.json)
 SCRIPT_NAME = Path(__file__).stem
-OUTPUT_FILE = f"../ocr_results/ocr_results_{SCRIPT_NAME}.json"
+OUTPUT_FILE = Path(__file__).parent.parent / "ocr_results" / f"ocr_results_{SCRIPT_NAME}.json"
 
 # --- Client ---
 client = OpenAI(
