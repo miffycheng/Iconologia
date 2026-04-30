@@ -5,6 +5,7 @@
 #   pip install -r requirements_local.txt
 
 torch
+torchvision
 transformers
 peft
 pillow
