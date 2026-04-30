@@ -1,0 +1,752 @@
+image,language,layout,ground_truth,ocr_qwen3vl8b,ocr_firered,ocr_qwen35,gt_len,qwen35_len,qwen3vl8b_len,firered_len,qwen35_ratio,qwen3vl8b_ratio,firered_ratio
+1026A428_pdf_1-510_21_png.rf.iCOgjI6TC2M2ZEJnKcod.png,it,single_column,"XII visi, le gesta degli eroi, o di dipingere l’ingratitudine degli uomini, gli inganni dell’ ipocrisia, ec. ec., traspor¬ tato da un invincibile istinto di natura, non potei se¬ guire quella volontà, che di sè ora resa più grande, mi ha spinto a cercare che resti con quest' opera qual¬ che cosa del mio, poichè quanto (lo che succede al poeta estemporaneo) finora ho cantato, Nel seno dell' oblio disperse il vento. UNMORNAROREIL M QI tanda dane m» ORRRTRRORROTANIEUNREITTETTN m d G UNO D a vumo oum io auu pmmbe immi RRIGN D RRERRRO DR alae e VO Lou vi u ERMTNEI GER TRRURR https://data.onb.ac.at/rep/10264428 Seite 20 von 510","visi, le gesta degli eroi, o di dipingere l'ingratitudine degli uomini, gli inganni dell'ipocrisia, ec. ec., trasportato da un invincibile istinto di natura, non potei seguire quella uolontà, che di sè ora resa piu grande, mi ha spinto a cercare che resti con quest' opera qual che cosa del mio, poiche quanto (lo che succede al poeta estemporaneo) finora ho cantato,","visi, le gesta degli eroi, o di dipingere l'ingratitudine degli uomini, gli inganni dell'ipocrisia, ec. ec., trasportato da un invincibile istinto di natura, non potei seguire quella volontà, che di sè ora resa più grande, mi ha spinto a cercare che resti con quest'opera qual- che cosa del mio, poichè quanto (lo che succede al poeta estemporaneo) finora ho cantato,
+
+Nel seno dell'oblio disperse il vento.
+
+https://data.onb.ac.at/rep/1026A428","XII
+
+visi, le gesta degli eroi, o di dipingere l'ingratitudine degli uomini, gli inganni dell'ipocrisia, ec. ec., trasportato da un invincibile istinto di natura, non potei seguire quella volontà, che di sè ora resa più grande, mi ha spinto a cercare che resti con quest'opera qualche cosa del mio, poichè quanto (lo che succede al poeta estemporaneo) finora ho cantato,
+
+Nel seno dell'oblio disperse il vento.",633,410,367,444,0.65,0.58,0.7
+1026A428_pdf_1-510_23_png.rf.6Mi3Crcp9bOB6VP4SFR0.png,it,image_with_caption,*4 ABBONDANZA E CARESTIA. 14 https://data.onb.ac.at/rep/10264428 Seite 22 von 510,"ABBONDANZA, E CARESTIA.","ABBONDANZA, E CARESTIA.","N. 1
+ABBONDANZA, E CARESTIA.
+F. P.
+https://data.onb.ac.at/rep/1026A428
+Seite 22 von 510",81,87,23,23,1.07,0.28,0.28
+Amsterdam_1644_Dirck_Pieter_Pers_33_png.rf.GFIDMFXNOEEewnv1NLTA.png,nl,mixed_complex,"Achterblap. DETRATTIGNE. 3 me en achtbaerheyt van andere luyden. den duyvel op de tonge dragen. gen quaedspreechinge tegen de goede nae- klappers, diewelcke, gelick Aiustmu seyt, DETRATTIONE. Achierklap. L En vrouwe van een leelijck opsicht, sit¬ Etende, en de mond een weynigh open houdende, met een swart laken op’t hoofd, sodanigh dat het bedeckt en een schadu in't aengesicht maeckt. 't Kleed sal op veele plaetsen gebroken ziin en van roestige ver¬ we, over al beset met slange tongen, in plaets van een kecten salse een touw om den hals hebben, daer een strick onder aen hangt; mette rechter hand salse een mes houden, als of zy iemant wilde steken, en in de slinc¬ ker een muys of ratte, maer groot genoeg, datmen die wel kan sien. Lelijck word zy geschildert, om dat dese lelijcke sonde van Achterklap niet alleen voor haer selve lelijck is, om dat sy altijd vaerdigh is tot schade en verderf van haren evennaesten : maer noch is 't de allerlelijck¬ ste saecke, met die geene, die sich met soda¬ nigen gemeen maecken, hare ooren daer toe leenende, gevende geloof aende bedriegh¬ lijcke en verkeerde natuyre van de achter¬ Sittende wordse vertoont,om dat de lec¬ digheyd een groote en krachtige oorsaecke van de Achterklap is, want men plach te seggen, Wie sacht sit, die dencht quaed. De opene mond en de slange-tongen op 't klced, druc¬ ken uyt de vaerdigheyd van den quaedspre¬ ker, om een yder te lasteren, passende op den Psalm Davids, zy hebben hare tongen gescherpt, en hebben, gelijck de slangen, venijn onder haere lippen. En Bernardus seyt in syne predicatien, dat de ronge van cen lasteraer is als een adder, die lichielijch met een aenblaes besmet, en is een scherpe lance die met een steeck, drie doorsteech. O avreede mond! dic los en loos, Vtonge stiert soo vals als boos, Tot schaede van een's anders leven, Die in vergif u pijlen doopt, Wiens valscheyt geene mensch ontloopt, Maer doet de vrome voor u beven. O boose slangh, die staedig loert, Drie-Ropte helhond, die vervoert, En blaft, en dost de xiele schrichen. Schoon dat een Man is vroom en recht, Voor God en voor de werelt slecht, Chy juygt, en breccle sim rocm aen stichen. Ghy lacht en groeyt in s anders lect, De Ny! noyt sulch gedrochte vvect, Noch op't gebergt is ooch geen looses: De helle quelt en plaegt alleen, De boose, die zy hout vertreen: Maer ghy schent verr' en nae, noch booser, Ey toomt dat snoo verheerde litt, Dat stout is en van scherp gebitt, Omovonden die u noyt misdeden: Waer over u een yder haet, En hout voor loogen al u pract, Als vol venijn, en fonder reden. Soo, soo, gae voort, tot cygen schae, Mismacck dy self en schen doch drae, Dijn cygen rust en gae verlooren: Gelijch als't vaste aerdrijck doct, Dat dampen in haer boesem voed, Die schuddend' hare rust verstooren. Sulx dat de zee en barre strand, De winden barsten doen bet land, En scheuren Rlip en rois in stuchen, Tot dit voorstel heeft Gismond Santus door dese dichten haeren aert uytgedruckt, die wy aldus hebben gevolght : Om dasse in sich sele vocis, 8 3 Een",gen quaedspreckinge tegen de goede nae-,"gen quaedsfreeckinge tegen de goede naeme en achtbaerheyt van andere luyden.
+
+DETRATTIONE. Achterklap.
+
+En vrouw van een leelijk opficht, fitende, en de mond een weynigh open houdende, met een zwart laken op 't hoofd, sodanigh dat het bedeckt en een schadu in't aengeficht maeckt. 't Kleed fal op veele plaetfen gebroken zijn en van roeftige verwe, over al befat met slange tongen, in plaets van een keeten false een touw om den hals hebben, daer een strick onder een hangt; mette rechter hand false een mes houden, als of zy iemant wilde steken, en in de flincker een muys of ratte, maer groot genoeg, datmen die wel kan fien.
+
+Lelijkck word zy gefchildert, om dat deze lelijkcke fonde van Achterklap niet alleen voor haer felve lelijkck is, om dat sy altijd vaerdigh is tot schade en verderf van haren evennaelten: maer noch is't de allerlelijkcke faecke, met die geene, die fich met soda-nigen gemeen maecken, hare ooren daer toe leenende, gevende geloof aende bedriegh-lijkcke en verkeerde natuyre van de achter-
+
+klappers, diewelcke, gelijck Augustinus feyt, den duyvel op de tonge dragen.
+
+
+
+Sittende wordt vertoont, om dat de leedigheyd een groote en krachtige oorfaecke van de Achterklap is, want men plach te seggen, Wie faecht sit, die denckt quaed. De opene mond en de flange-tongen op 't kleed, drucken uyt de vaerdigheyd van den quaedsfreker, om een yder te lasteren, passende op den Pfalm Davids, xy hebben hare tongen gefcherpt, en hebben, gelijck de flangen, venijn onder haere lippen. En Bernardus feyt in syne predication, dat de tonge van een lasteraer is als een adder, die lichtelijk met een aenblaes besmet, en is een fcherpe lance die met een steek, drie doorsteckt.
+
+Tot dit voorstel heeft Gifmond Santus door deze dichten haeren aert uitgedrukt, die wy aldus hebben gevolgt:
+
+O-wreeede mond ! die los en loos,
+
+V Tonge stiert soo vals als boos,
+
+Tos schaede van een's anders leven,
+
+Die in vergift u pijlen doopt,
+
+Wiens valfscheyt geene mensch onloopt,
+
+Maer doet de vrome voor u beven.
+
+O boote flangk, die staedig loert,
+
+Drie-kopte helbond, die vervoert,
+
+En blaft, en doet de ziele fchricken.
+
+Schoon dat een Man is vroom en recht,
+
+Voor God en voor de vereelt flecht,
+
+Ghy juagt, en breecttijn roem aen sticken,
+
+Ghy lacht en groeyt in's anders leet,
+
+De Nyl noyt sulck gedrochte wect,
+
+Noch op't gebergt is oock geen loofe:
+
+De helle guelt en plaegt alleen,
+
+De boote, die zy hout vertreen:
+
+Maer ghy schent verr en nae, noch boof,
+
+Ey toomt dat snoo verkeerde litt,
+
+Dat stout is en van scherp gebitt,
+
+Om wonden die u noyt misdenen:
+
+Waer over u een yder haet,
+
+En hout voor loogen al u pract,
+
+Als vol venijn, en fonder reden.
+
+Soo, too, gae voort, to eygen schae,
+
+Misnaeck dy selfen schen doch drae,
+
+Dijn eygen rust en gae verlooten:
+
+Gelijk als't vaste aerdrijck doet,
+
+Dat dampen in haer boefem voed,
+
+Die schuddend' hare rust verstooten.
+
+Sulx dat de zee en barre strand,
+
+De winden barsten doen het land,
+
+En scheuren klip en rots in stucken,
+
+Om datse in sich felve voelt,","Achterklap. DETRATTIONE.
+gen quaedspreckinge tegen de goede nae- me en achtbaerheyt van andere luyden.
+DETRATTIONE. Achterklap.
+
+En vrouwe van een leelijck opficht, fit- tende, en de mond een weynigh open houdende, met een fwart laken op't hoofd, fodanigh dat het bedeckt en een fchadu in't aengeficht maeckt. 't Kleed fal op veele plaetfen gebroken zijn en van roeftige ver- we,over al befet met flange tongen,in plaets van een keeten falfe een touw om den hals hebben, daer een ftrick onder aen hangt; mette rechter hand falfe een mes houden, als of zy iemant wilde fteken, en in de flinc- ker een muys of ratte, maer groot genoeg, datmen die wel kan fien.
+Lelijck word zy gefchildert,om dat defe lelijcke fonde van Achterklap niet alleen voor haer felve lelijck is, om dat fy altijd vaerdigh is tot fchade en verderf van haren evennaeften: maer noch is 't de allerlelijck- fte faecke, met die geene,die fich met foda- nigen gemeen maecken,hare ooren daer toe leenende, gevende geloof aende bedriegh- lijcke en verkeerde natuyre van de achter-
+klappers, diewelcke, gelijck Augustinus feyt, den duuyvel op de tonge dragen.
+Sittende wordfe vertoont,om dat de leedigheyd een groote en krachtige oorfaecke van de Achterklap is, want men plach te feggen, Wie faecht fit,die denckt quaed. De opene mond en de flange-tongen op 't kleed,druc- ken uyt de vaerdigheyd van den quaedspre- ker, om een yder te lafteren, paflende op den Pfalm Davids,zy hebben hare tongen geferpft, en hebben, gelijck de flangen, venijn onder haere lippen. En Bernardus feyt in fyne predicatien, dat de zonge van een lafteraer is als een adder, die lichtelyck met een aenblaes befmet, en is een fcherpe lance die met een fteeck, drie doorfteeckt.
+Tot dit voorftel heeft Gifmond Santus door defe dichten haeren aert uytgedruckt, die wy aldus hebben gevolght:
+O wreede mond! dic los en loos,
+V tonge ftiert foo vals als boos,
+Tot fchaede van een 's anders leven,
+Die in vergif u pijlen doopt,
+Wiens valscheyt geene mensch ontloopt,
+Maer doet de vrome voor u beven.
+O boofe flangk, die flaedig loert,
+Drie-kopte helhond, die vervoert,
+En blaft, en doet de ziele fchricken.
+Schoon dat een Man is vroom en recht,
+Voor God en voor de werelt flecht,
+Ghy juugt, en breeckt fijn roem aen fticken.
+Ghy lacht en groeyt in 's anders leet,
+De Ny! noyt fulck gedrochte weet,
+Noch op 't gebergt is oock geen loofer :
+De helle quelt en plaegt alleen,
+De boofe, die zy hout vertreen :
+Maer ghy fchent verr en nae, noch boofer,
+Ey toomt dat fnoo verkeerde litt,
+Dat flout is en van fcherp gebitt,
+Om wonden die u noyt misdeden :
+Waer over u een yder haet,
+En hout voor loogen al u pract,
+Als vol venijn, en fonder reden.
+Soo, foo, gae voort, tot eygen fchae,
+Mismaeck dy felfen fchen doch drae,
+Dijn eygen rust en gae verlooren :
+Gelijck als 't vaste aerdrijck doet,
+Dat dampen in haer boefem voed,
+Die fchuddend' hare rust verftooren.
+Sulx dat de zee en barre strand,
+De winden barften doen het land,
+En fcheuren klip en rots in ftucken,
+Om datfe in fch felve voelt,
+B 3
+Ecn",3034,3028,39,3015,1.0,0.01,0.99
+Amsterdam_1657_ca__Cornelis_Danckerts_28_png.rf.H9bG2gM01s3DDDlwWIgz.png,nl,text_heavy_structured,"2 ICONOLOGIA» 31. ESSIELIO. Ballinghschap. En man in pelgrims klecderen, die in de rechter hand een Iwandel-staf, en op de ssinckerhand een valck heest. 32 MISERICORDIA, Barmhertigheyd. En witte poeselige vrouwe, hebbende groote oogen, de Lneuse cen weynigh verheven, met een olijfkrans om’t hoosd, staende met opgessagen armen, hebbende in de rech¬ ter hand een cedertack met de vruchten, ter syden sal cen kauw of een kracyken staen. 33. FRAUDE. Bedrogh, En vrouwe met twee aengesichten, tecne jongh en schoon, Lt ander van een oud leelijck wijf, wesende bloot tot aen de borsten, gekleed in’t geel tot de halve beenen toe, hebbende voeten als een Adelaer, en de steert als een Scorpioen, die men tusschen hacre beenen door siet: en sal in de rechter hand twec herten houden, en in de slincker een mom-aensicht. 34. FRAUDE, Bedrogh. En vrouwe die in haer hand een angel-roede houdt, waer I mede zy een visch heest gevangen, maer d’andere visschen, waeren alreede doodt in een vat gedaen. Want het bedrogh is niet anders als te schiinen een goede saecke te doen, maer buy¬ ten de meeninge van andere doense quade dingen. Insgelijx doet oock de visscher, die de viskens te eeten geven, op datse die mogen vangen en dooden. 35. FRAUDE. Bedrogh. ante maelt haer in sijne helle af, datse een aensicht van I Peen vroom mensch gelijkt, en de rest van 't lichaem is als çen slange, met veele vlacken en verwen, zijnde haere steert ge¬ krult als een scorpioen, die zy uyt de vloet Cocito, de helle of het vuyle waeter gekregen heest, alsoo afgeschildert zijnde wortse Gerion gehceeten. IN¬ -=---- -----— * –-F","ICONOLOGIA,
+
+31. ESSIELIO. Ballinghscap.
+
+En man in pelgrims kleederen, die in de rechter hand een wandelstaf, en op de slinckerhand een ualck heeft.
+
+32. MISERICORDIA. Barmbertĩgheyd.
+
+En witte poeselige vrouwe, hebbende groote oogen, de neuse een weynigh verheuen, met een oliiĩtkrans om t hoofs, staende met opgeßlagent armen, hebbende in de rechter hand een cedertack met de uruchten, ter syden sal een kauw of een kraeyken staen.
+
+33. FRAUDE. Bedrogh.
+
+En vrouwe met twee aengesichten, t eene iongh en schoon, t ander uan een oud leelijk wiif, wesende bloot tot aen de borsten, gekleed in t geel tot de halwe beenen toe, hebbende uoeten als een Adelaer, en de steert als een Scorpioen, die men tusschen haere beenen door siet: en sal in de rechter hand twee herten houden, en in de slincker een momaensicht.
+
+34. FRAUDE. Bedrogh.
+
+En vrouwe die in haer hand een angel-roede houdt, waer mede zy een uisch heeft geuangen, maer d̾ andere uisschen, waeren alreede doodt in een uat gedaen. Want het bedrogh is niet anders als te schiĩnen een goede saecke te doen, maer buten de meeninge uan andere doense quade dingen. Insgelĩx doet oock de uisscher, die de uiskens te eeten geuen, op datse die mogen uangen en dooden.
+
+35. FRAUDE. Bedrogh.
+
+Dante maelt haer in siine helle af, datse een aensicht uan een uroom mensch gelik̾t, en de rest uan t lichaem is als een slange, met ueele ulacken en uerwen, ziinde haere steert ge- krult als een scorpioen, die zy uyt de uloet Cocitõ, de helle of het uuyle waeter gekregen heeft, alsoo afgeschildert ziinde wortse Gerion geheeten.","## I CONOLOGIA,
+
+31. Essielio. Ballingfschap.
+
+En man in pelgrims kleederen, die in de rechter hand een wandel-staf, en op de flinckerhand een valck heeft.
+
+32. Misericordia. Barmhertigheid.
+
+En witte poeselige vrouw, hebbende groote oogen, de neufe een weynigh verheven, met een olijtkrans om 't hoofd, staende met opgeflagen armen, hebbende in de rechter hand een cedertack met de vruchten, ter syden fal een kauw of een kraeyken staen.
+
+### 33. FRAUDE. Bedrogh
+
+En vrouw met twee aengefichten, 't een jongh en schoon, 't ander van een oud leelijck wijf, wesende bloot tot een de borsten, gekleed in 't geel tot de halve beenen toe, hebbende voeten als een Adelaer, en de steert als een Scorpioen, die men tusschen haere beenen door niet; en fal in de rechter hand twee herten houden, en in de flincker een mom-aensicht.
+
+### 34. FRAUDE. Bedrogh
+
+En vrouw die in haar hand een angel-roede houdt, waer mede zy een visch heeft gevangen, maar d'andere vischen, waeren alreedoodt in een vat gedaen. Want het bedrogh is niet anders als te schijnen een goede faecke te doen, maar buyten de meeninge van andere doende quade dingen. Infgelijk doet oock de vischer, die de viskens te eegen geven, op datse die mogen vangen en dooden.
+
+### 35. FRAUDE. Bedrogh
+
+Dante maelt haer in fijn helle af, datse een aensicht van een vroom mensch gelijkt, en de reft van 't lichaem is als een flange, met veele vlacken en verwen, zijnde haere steert ge-krult als een Scorpioen, die zy uit de vloe Cocito, de helle of het vuyle waeter gekregen heeft, altoo afgefchildert zijnde wordt Gerion geheeten.","8
+ICONOLOGIA,
+31. ESSI ELIO. Ballingschap.
+En man in pelgrims kleederen, die in de rechter hand een
+wandel-staf, en op de sfinckerhand een valck heeft.
+32. MISERICORDIA. Barmhertigheyd.
+En witte poefelige vrouwe, hebbende groote oogen, de
+neufe een weynigh verheven, met een olijtkrans om 't
+hoofd, ftande met opgeflagcn armcn, hebbende in de rech-
+ter hand een cedertack met de vruchten, ter fyden fal een kauw
+of een kraeyken ftan.
+33. FRAUDE. Bedrogh.
+En vrouwe met twee aengefichten, 't eene jongh en fchoon,
+'t ander van een oud leelijck wijf, wefende bloot tot aen de
+borften, gekleed in 't geel tot de halve beenen toe, hebbende
+voeten als een Adelaer, en de fteert als een Scorpioen, die
+men tuffchen haere beenen door fter; en fal in de rechter hand
+twec herten houden, en in de sfincker een mom-aenlicht.
+34. FRAUDE. Bedrogh.
+En vrouwe die in haer hand een angel-roede houdt, waer
+mede zy een vifch heeft gevangen, maer d'andere vifichen,
+waeren alreede doodt in een vat gedaen. Want het bedrogh is
+niet anders als te fchijnen een goede faecke te doen, maer buy-
+ten de meeninge van andere doenfe quade dingen. Infgelijx
+doet oock de viflcher, die de vifkens te eer en geven, op datfe
+die mogen vangen en dooden.
+35. FRAUDE. Bedrogh.
+Dante mact haer in fijne helle af, datfe een aenlicht van
+een vroom menfch gelijkt, en de reft van 't lichaem is als
+een flange, met veele vlacken en verwen, zijnde haere fteert ge-
+krult als een fcorpion, die zy uyt de vloeet Cocito, de helle of
+het vuyle waeter gekregen heeft, alfoo afgefchildert zijnde
+wortfe Gerion geheeten.
+IN.",1603,1578,1572,1580,0.98,0.98,0.99
+Augsburg_1760_ca__Georg_Hertel_34_png.rf.u8hZXHABMoPhRcCxulMN.png,de,image_with_caption,"XII AURORA. Orta dies totian raduss umpleverat- orbem Cum luctantur adhic Angelus atque Iacob. 13 * 3 D Etchler, del DET DRDTGFII Iacob Iit Dent Cugel riugte 25 ber Iisorurit Cimr lirk IeBmpmnigIe Hertel, excud","XIII
+AURORA.
+Orta dies totum radiis impleverat orbeñ
+Cum luctantur adhuc Angelus atque Iacob.
+I. Wangner Sculps.
+Eichler, del
+Der Morgent.
+Iacob mit dem Engel rangte
+es der Morgent Thou sich schwangte.
+Hertel, excud.","Orta dies totum radiis impleverat orbem,
+
+Gum luctantur adhuc Angelus atque Iacob.
+
+Der Morgen
+
+Jacob mit dem Engel rüngte
+
+eß der Morgen Thau sich schwingte
+
+Eichler, del
+
+Hertel, excud.","XIII.
+AURORA.
+Orta dies totum radius impleverat orbem,
+Cum luctantur adhuc Angelus atque Iacob.
+Der Morgen.
+Jacob mit dem Engel ringte,
+eh der MorgenThau sich schwingte.
+Eichler, del.
+I. Wagner, Sculp.
+Hortel, excud.",210,216,216,187,1.03,1.03,0.89
+Augsburg_1760_ca__Georg_Hertel_50_png.rf.CXBkC93DfrKevNiWFnu2.png,la,image_with_caption,2 2 8 a osouqqual D. rnD FS sia r1. mt de mobi¬ 0 mpr oxa pon taμ] bαoagy uoι 1 Pte ail 41 FII F II m 7 UIGHS b nriad -onæi uouas,"Quanuis erat positus tenebroso in
+carcere Petrus
+Angelus adstat et eripuit sua vincula
+dura
+No.105.
+DB Petrus ẜiuit assuer in demi
+ꝓfessiũis sẜi
+Sic istm̃ der Engel doch befriẽt,
+und beschw̾ft.
+Simon Vouet pinxit.","Simon Tovet, painter.
+
+G. E. Hott Sint.
+
+Du Petruss zuur olfier in den
+
+Befangen bis
+
+Safir der Engel doch befreyet,
+
+und befeuchtet.
+
+Quamis erat positus tenebroso in
+
+cancere Petrus
+
+dura.
+
+10h Georg Hertel, exc. Aug. V.
+
+3.","Quamvis erat positus tenebroso in carcere Petrus Angelus adfuit et eripuit sua vincula dura 
+ 3. 
+ Ioh. Georg Hertel, exc. Aug. V. 
+ N° 105. 
+ Ob Petrus zwar ob hier in dem Gefängnis sitzt, 
+ Sol ihn der Engel doch befreyet, 
+ und beschüht. 
+ Simon Touet, pinxit.",129,263,213,226,2.04,1.65,1.75
+Delft_1743-50_Hubert_Korneliszoon_Poot_22_png.rf.Bhk95B9DDvRckiGhCbUA.png,nl,single_column,"VOORREDEN. dien hy nochtans noemt in dat zelfde beelt bladz. 109. daer hy die plaets van Homeer herhaelt: by ons staet ze bladz.349. Men overwege nu vorder in’t beelt Einde deze woorden, by Pers bladz. 115. des winters wanneer de zonne op’t verste van ons afreyét, en ons de bortste dagen maelt, als dan geven de boo¬ men door de Roude en r)p géen voea-et meer aen de bladers, maer trekken de voch- tigheit in zich zelve; vaerover die zelve niet hebbende de levende vochtigheit, die haer in 't leven onderhield; alsdan vierpen zy uit de beminde stam een licht groen mos, waermede zy hlaerlyk te verstaen geven, dat ze op ’t einde van haer leven en van alle haere kracht berooft zyn. Wie heeft van zyn leven zulke zotheden gehoort? of, zo0 hy ze gehoort heeft, verstaen? Vergelyk nu onze woorden bladz. 390, en gy zult de gekheit klaer ontdekken, die trouwens dat geheele beelt al weer klaer doorblinkt. Bladz. 441 in ’t beelt Glori der Vorsten, maekt hy arme stedelingen van arme dochters die huxbaer waren, by ons bladz. 510. In het beelt Goetheit, by hem bladz. 185, heeft hy van den Italiaenschen Schryver Ruscelli, wiens getuigenisse aldaerdoor Ripa is aengehaelt, gemaekt een vvaterstroom: omdat ruscello in ’t Itali¬ aensch een beehje of waterstroomtje betekent; daer hy doch dien Schryver zelf erkent heeft over ’t beelt van ’t Berou der Zonden, by hem bladz. 41, by ons 120; en wel in dezelve zaek die hier voorkomt, nament lyk van den Pellikaen en zyne jongen: welk getuigenisse wy in 't beelt der Goetheit niet hebben herhaelt, omdat wy den Lezer aldaer op het beelt van ’t Berou zelve, daer dat getuigenisse wort gemelt, wyzen. In ’t derde beelt der Gulzigheit, by hem bladz. 470, maekt hy van den visch polypus of veelvoet, een vos. Bladz. 209, in de IIuwelyksche Vereeniging zegt hy, dat Alcione geweest is de vrouw van den blinden koning van Thracien: daer hy den naem van dien koning, die Ceyx was, belachlyk heeft vertaelt door blint, alsof ze was cieco of ceco; hetwelk in 't Italiaensch blint is te zeggen. In ’t cerste beelt der Landtbouwery, by hem bladz. 279. heeft hy van wyn¬ gaertranken met de druiven daeraen, gemaekt pompoenen en druiven. In ’t beelt Lof, by hem bladz. 307, herschept hy de Tritons of Trompetters van Neptuin in drietonige Trompetters; en stelt den tempel van Saturnus in plaets van de tyden van Saturnus; niet onderscheidende tempo tyt, en tempio, tempel. In 't cerste beelt der Maegdenstaet, by hem bladz. 223, maekt hy van Katullus in 't bruiloftsdicht van Manlius, twee Schryvers, na¬ mentlyk Katullus en Manlius. In ’t eerst beelt der Maetneming, bladz.313 spreekt hy van den Egiptischen koning Sesostris aldus: hy was genaemt Sesostris of Sesosis, een Arabier, afhomstig van den eersten koning van Egipten. Hy hadde moeten zeggen: Sesostris of Sesosis, een Arabier van aftomst, Ro¬ ning van Egipten. De eerste koning van Egipten was Menes, die geen A¬ rabier was: en hoe ’t zoude zyn uit te rekenen, dat Sesostris een Arabier af komstigh is van den Egiptischen Menes, tusschen welke twee een-en¬ vyftig koningen en cen tyd van 1400 jaren geweest zyn, volgens de reke-» Canque ning van Marsham*, is my geheel onbekent; voornamentlyk in zulke gro-Chron. te duisternissen, als daer de Egiptische Oudheden mede bezet zyn. Indat Ægypt. eigenste beelt, by hem bladz. 314, mackt hy ook van een man, Kajus Ju-P. 22. lius Hermes, twee byzondere personen, namentlyk Kajus Julius en Her¬ mes, behalven menigvuldige andere zotheden in dat zelve beelt begaen. Maer waer zouden wy eindigen, indien wy alle de mislagen van dien man wilden aentoonen? Derhalven zal ik ’er nog maer van twee spreeken, die ik om redenen niet moet voorby gaen. In de Bespiegeling, bladz. 501. 2 be¬","VOORREDEN.
+
+dien hi nochtans noemt in dat zelfde beelt bladz. 109. daer hi die plaets uan
+
+Homeer herhaelt : by ons staet ze bladz. 349. Men overwege nu uorder in t beelt Einde deze woorden, by Pers bladz. 115. des winters wanneer de zonne
+
+op t uerste uan ons afweykt, en ons de kortste dagen maekt, als dan geuen de boo- men door de koude en ryp geen uoedzel meer aen de bladers, maer trekken de uocht- tigheit in zich zelve ; waerower die zelve niet hebbende de levende uochtigheit, die haer in t leven onderhielt ; alsdan wierpen zy uit de beminde stam een licht groen mos, waermede zy klaerlyk te uerstaen geuen, dat ze op t einde uan haer leven en uan alle haere kracht berooft zyn. Wie heeft uan zyn leven zulke zotheden gehoort? of, zoo hi ze gehoort heeft, uerstaen? Vergelyk nu onze woorden bladz. 390, en gy zult de gekheit klaer ontdekken, die trouwens dat geheele beelt al weer klaer doorblinkt. Bladz. 441 in t beelt Glori der Vorsten, maekt hi arme stedelingen uan arme dochters die huwbaer waren, by ons bladz. 510. In het beelt Goetheit, by hem bladz. 185, heeft hi uan den Italiaenschen Schryuer Rufcelli, wiens getuigenisse aldaer door Ripa is aengehaelt, gemaekt een waterstroom : omdat ruscello in t Italiaensch een beekie of waterstroomtse betekent ; daer hi doch dien Schryuer zelf erkent heeft over t beelt uan t Berou der Zonden, by hem bladz. 41, by ons 120 ; en wel in de zelue zaek die hier uoor komt, namentlik uan den Pellikaen en zyne jongen ; welk getuigenisse wy in t beelt der Goetheit niet hebben herhaelt, omdat wy den Lezer aldaer op het beelt uan t Berou zelve, daer dat getuigenisse wort gemelt, wyzen. In t derde beelt der Gulzigheit, by hem bladz. 470, maekt hi uan den visch polypus of veeluoet, een uos. Bladz. 209, in de Huwelykse Uereenĩging zegt hi, dat Alcione geweest is de vrouw uan den blinden koning uan Thracien ; daer hi den naem uan dien koning, die Ceyx was, belachlyk heeft uertaelt door blint, alsof ze was cieco of ceco ; hetwelk in t Italiaensch blint is te zeggen. In t eerste beelt der Landtbouwery, by hem bladz. 279. heeft hi uan wyngaertranken met de druiven daeraen, gemaekt pompoenen en druiven. In t beelt Lof, by hem bladz. 307, herschept hi de Tritons of Trompetters uan Neptuin in drietonge Trompetters ; en stelt den tempel uan Saturnus in plaets uan de tyden uan Saturnus ; niet onderscheidende tempo tyt, en tempio, tempel. In t eerste beelt der Maegdenstaet, by hem bladz. 223, maekt hi uan Katullus in t bruiloftsdicht uan Manlius, twee Schryuers, namentlik Katullus en Manlius. In t eerst beelt der Maetneming, bladz. 313 spreekt hi uan den Egiptischen koning Sesostris aldus : hi was genaemt Sesostris of Sesis, een Arabier, afkomstig uan den eersten koning uan Egipten. Hi hadde moeten zeggen : Sesostris of Sesis, een Arabier uan afkomst, koning uan Egipten. De eerste koning uan Egipten was Menes, die geen Arabier was ; en hoe t zoude zyn uit te rekenen, dat Sesostris een Arabier afkomstigh is uan den Egiptischen Menes, tusschen welke twee een-en- uyftig koningen en een tyd uan 1400 iaren geweest zyn, uolgens de rekening uan Marsham*, is my geheel onbekent ; voornamentlik in zulke groete duisterneffen, als daer de Egiptische Oudheden mede bezet zyn. In dat Aegypti p. 22. eigenste beelt, by hem bladz. 314, maekt hi ook uan een man, Kaĩus Iulus Hermes, twee byzondere personen, namentlik Kaĩus Julius en Hermes, behaluen meniguldige andere zotheden in dat zelue beelt begaen. Maer waer zouden wy eindigen, indien wy alle de miilagen uan dien man wilden aentoonen? Derhaluen zal ik er nog maer uan twee spreeken, die ik om redenen niet moet uoorby gaen. In de Bespiegelĩg, bladz. 501. be-","dien hy nochtans noemt in dat zelfde beetbladz. 109. daer hy die plaets van Homeer herhaelt: by ons staetzebladz. 349. Men overwege nu vorder in't beet Einde deze woorden, by Pers bladz. 115. des winters wanneer de zonne op't verste van ons afwykt, en ons de kortfte dagen maekt, als dan geven de boomen door de koude en ryp geen voedzel meer aen de bladers, maert trekken de voch-tigheid in zich zelve; waerover die zelve niet hebbende de levende vochtigheid, die haer in't leven onderhield; alsdan wierpen zy uit de beminde stam een licht groen mos, waermede zy klaerlyk te verstaen geven, dat ze op't einde van haer leven en van alle haere kracht berooft zyn. Wie heeft van zyn leven zulke zotheden gehoort? of, zoo hy ze gehoort heeft, verstaen? Vergelyk nu onze woorden bladz. 390, en gy zult de gekheid klaer ontdekken, die trouwens dat geheele beet al weer klaer doorblinkt. Bladz. 441 in't beet Glori der Vorsten, maekt hy arme stedingen van arme dochters die huwbaer waren, by ons bladz. 510. In het beet Goetheit, by hem bladz. 185, heeft hy van den Italiaenfchen Schryver Rufcelli, wiens getuigenisse aldaer door Ripa is aengehaelt, gemaekt een waterstroom: omdat rufcello in't Italiaenfch een beekje of waterstroomtje betekent; daer hy doch dien Schryver zelferkent heeft over't beet van't Berou der Zonden, by hem bladz. 41, by ons 120; en wel in dezelve zaek die hier voorkomt, namentlyk van den Pellikaen en zyne jongen: welk getuigenisse wy in't beet der Goetheit niet hebben herhaelt, omdat wy den Lezer aldaer op het beet van't Berou zelve, daer dat getuigenisse Wort gemelt, wyzen. In't derde beet der Gulzighet, by hem bladz. 470, maekt hy van den visch polypus of veelvoet, een vos. Bladz. 209, in de Hwwelyksche Vereeniging zegt hy, dat Alcione geweest is de vrouw van den blinden koning van Thracien: daer hy den naem van dien koning, die Ceyx was, belachlyk heeft vertaelt door blint, alsof ze was cieco of ceco; hetwelk in't Italiaenfch blint is te zeggen. In't eerfte beet der Landtbouwery, by hem bladz. 279. heeft hy van wyn-gaertrangen met de druiven daeraen, gemaekt pompoenen en druiven. In't beet Lof, by hem bladz. 307, herschept hy de Tritons of Trompetters van Neptuin in drietonige Trompetters; en stelt den tempel van Saturnus in plaets van de tyden van Saturnus; niet onderscheidende tempo tyt, en tempio, tempel. In't cerfte beet der Maegdenstaet, by hem bladz. 223, maekt hy van Katullus in't bruiloftdicht van Manlius, twee Schryvers, namentlyk Katullus en Manlius. In't eerst beet der Maetneming, bladz. 313 sreekt hy van den Egyptischen koning Sefostris aldus: hy was genaemt Sefostris of Sefosis, een Arabier, afkomstig van den eersten koning van Egypten. Hy hatte moeten zeggen: Sefostris of Sefosis, een Arabier van afkomst, koning van Egypten. De eerfte koning van Egypten was Menes, die geen Arabier was: en hoe't zoude zyn uit te rekenen, dat Sefostris een Arabier afkomstigh is van den Egyptischen Menes, tusschen welke twee een-en-vyftig koningen en een tyd van 1400 jaren geweest zyn, volgens de rekening van Marsham*, is my geheel onbekent; voornamentlyk in zulke gro-te duifternissen, als daer de Egyptische Oudheden mede bezet zyn. Indat eigenfte beet, by hem bladz. 314, maekt hy ook van een man, Kajus Julius Hermes, twee byzondere personen, namentlyk Kajus Julius en Hermes, behalven menigvuldige andere zotheden in dat zelve beet begaen. Maer waer zouden wy eindigen, indien wy alle de mislagen van dien man wilden aentoonen? Derhalven zal ik'er nog maer van twee sreeken, die ik om redenen niet moet voorby gaen. In de Bespiegeling, bladz. 501.
+
+ $ ^{*} $ 2","V O O R R E D E N.
+
+dien hy nochtans noemt in dat zelfde beeld bladz. 109. daer hy die plaats van
+Homeer herhaelt: by ons flaet ze bladz. 349. Men overwege nu vorder in't
+beeld Einde deze woorden, by Pers bladz. 115. des winters wanneer de zonne
+op't verste van ons afwykt, en ons de kortste dagen maekt, als dan geven de boo-
+men door de koude en ryp geen voedsel meer aen de bladers, maer trekken de vocht-
+igheid in zich zelve; waerover die zelve niet hebbende de levende vochtigheit,
+die haer in't leven onderhield; alsdan wierpen zy uit de beminde stam een licht
+groen mos, waarmede zy klaerlyk te verstaen geven, dat ze op't einde van haer
+leven en van alle haere kracht berooft zyn. Wie heeft van zyn leven zulke
+zotheden gehoord? of, zoo hy ze gehoord heeft, verstaen? Vergelyk nu
+onze woorden bladz. 390, en gy zult de gekheit klaer ontdekken, die
+trouwens dat geheele beeld al weer klaer doorblinkt. Bladz. 441 in't beeld
+Glori der Vorsten, maekt hy arme stedelingen van arme dochters die huwbaer
+waren, by ons bladz. 510. In het beeld Goetheit, by hem bladz. 185, heeft
+hy van den Italiaenschen Schryver Rufcelli, wiens getuigenisse aldaer door
+Ripa is aengehaelt, gemaekt een waterstroom: omdat ruscello in 't Itali-
+aensch een beekje of waterstroomtje betekent; daer hy doch dien Schryver
+zelf erkent heeft over 't beeld van 't Berou der Zonden, by hem bladz. 41,
+by ons 120; en wel in dezelve zaak die hier voorkomt, namentlyk van den
+Pellikaen en zyne jongen: welk getuigenisse wy in 't beeld der Goetheit niet
+hebben herhaelt, omdat wy den Lezer aldaer op het beeld van 't Berou
+zelve, daer dat getuigenisse wort gemelt, wyzen. In 't derde beeld der
+Gulzigheit, by hem bladz. 470, maekt hy van den visch polypus of veelvoet,
+een vos. Bladz. 209, in de Huwelyksche Vereeniging zegt hy, dat Alcione
+geweeft is de vrouw van den blinden koning van Thracien: daer hy den
+naem van dien koning, die Ceyx was, belachlyk heeft vertaelt door blind,
+alsof ze was cieco of ceco; hetwelk in 't Italiaensc blint is te zeggen. In 't
+eerfte beeld der Landtbouwery, by hem bladz. 279. heeft hy van wyn-
+gaertranken met de druiven daeraen, gemaekt pompoenen en druiven. In 't
+beeld Lof, by hem bladz. 307, herfschept hy de Tritons of Trompetters
+van Neptuin in drietonige Trompetters; en ftelt den tempel van Saturnus
+in plaets van de tyden van Saturnus; niet onderscheidende tempo tyt, en
+tempio, tempel. In 't cerfte beeld der Maegdenstaet, by hem bladz. 223,
+maekt hy van Katullus in 't bruioltsdicht van Manlius, twee Schryvers, na-
+mentlyk Katullus en Manlius. In 't eerst beeld der Maetneming, bladz. 313
+fpreekt hy van den Egyptischen koning Sefostris aldus: by was genaemt
+Sefostris of Sefosis, een Arabier, afkomstig van den eerften koning van Egipten.
+Hy hadde moeten zeggen: Sefostris of Sefosis, een Arabier van afkomst, ko-
+ning van Egipten. De eerfte koning van Egipten was Menes, die geen A-
+rabier was: en hoe 't zoude zyn uit te rekenen, dat Sefostris een Arabier
+afkomftigh is van den Egyptischen Menes, tuffchen welke twee een-en-
+vyftig koningen en een tyd van 1400 jaren geweeft zyn, volgens de reke-
+ning van Marsham*, is my geheel onbekent; voornamentlyk in zulke gro-
+te duifternissen, als daer de Egyptische Oudheden mede bezet zyn. In dat
+eigenfte beeld, by hem bladz. 314, maekt hy ook van een man, Kajus Ju-
+lius Hermes, twee byzondere personen, namentlyk Kajus Julius en Her-
+mes, behalven menigvuldige andere zotheden in dat zelve beeld begaen.
+Maer waer zouden wy eindigen, indien wy alle de miflagen van dien man
+wilden aentoonen? Derhalven zal ik 'er nog maer van twee fpreeken, die
+ik om redenen niet moet voorby gaan. In de Bespiegeling, bladz. 501.
+* * 2
+be-",3713,3692,3674,3617,0.99,0.99,0.97
+Delft_1743-50_Hubert_Korneliszoon_Poot_34_png.rf.JzgkV6byTCTK68QQDkSU.png,nl,text_heavy_structured,"PHET GROOT NATUUR- EN ZEDEKUNDIG WERELTTONEEL DER UITGELEZEN ZINNEBEE LDEN BEELDENSPRAEK, ""AN CESAR RIPA, ZARATINO KASTELLINI, PIÈRIUS VALERIANUS etc. Oëten, lang belust op schoone Zinnebeelden, Als vaert gy aen den Nyl met Beeldesprack gevoct, Dit beeltryk Kunsttoneel vertoont u overvloet Van zaekverbeeldingen, die d’ouden mededeelden. Indien uw Poëzy de neigende ooren streelden, En het gereinigt hart, van Christus maegdestoet, Eer gy ’t Natuurelyke, en Zedelyke zoet Uit dezen bloemhof zoogt, en in dit loofwerk speelden. Wie zal uw' zanglust niet in ruimer Dichters velt! Verrukken door u lier? nu ’t cierlyk dichtloof zwelt, En dit verbloemde werk Natuur en Kunst leert paeren. Volgt dan de vonden vry van Ripaes ryken geest, Nu gy het taelcieraet van Poot in 't Neêrduitsch leest, En 't heerlyk Ractzelwerk uit d’outheit ziet verklaeren. **X**Z P. SCHIM. OE",OPPHET,"OPHET
+
+GROOT NATUUR- EN ZEDEKUNDIG
+
+WERELTTONEEL
+
+DER UITGELEZEN
+
+ZINNEBEELDEN
+
+OF
+
+BEELDENS PraEK;
+
+VAN
+
+CESAR RIPA, ZARATINO KASTELLINI,
+
+PIÈRIUS VALERIANUS &c.
+
+Oeten, lang belucht op schoone Zinnebeelden,
+
+Als waert gy aen den Nyl met Beeldefpraek gevoet,
+
+Dit beeltryk Kunsttoneel vertoont u overvloeit
+
+Van zaekverbeeldingen, die d' ouden mededeelden.
+
+Indien uw Poëzy de neigende ooren streelden,
+
+En het gereinigt hart, van Christus maegdeftoet;
+
+Eer gy't Natuurelyke, en Zedelyke zoet
+
+Uit dezen bloemhof zoogt, en in dit loofwerk speelden.
+
+Wie zal uw' zangluft niet in ruimer Dichters velt!
+
+Verrukken door u lier? nu't cierlyk dichtloof zwelt,
+
+En dit verbloemde werk Natuur en Kunst leert paeren.
+
+Volgt dan de vonden vry van Ripaes ryken geeft,
+
+Nu gy het taelcieraet van Poot in 't Neërduitsch leeft,
+
+En 't heerlyk Raetzelwerk uit d' outheit ziet verklaeren.
+
+P. SCHIM.","OP HET
+GROOT NATUUR- EN ZEDEKUNDIG
+WERELTONEEL
+DER UITGELEZEN
+ZINNEBEELDEN
+OF
+BEELDENSpraek;
+VAN
+CESAR RIP A, ZARATINO KASTELLINI,
+PIERIUS VALERIANUS &c.
+Poëten, lang beluift op schoone Zinnebeelden,
+Als waert gy aen den Nyl met Beeldefpraek gevoet,
+Dit beeltryk Kunfttoneel vertoont u overvloet
+Van zaakverbeeldingen, die d' ouden mededeelden.
+Indien uw Poëzy de neigende ooren ftreelden,
+En het gereinigt hart, van Chriftus maegdeftoet;
+Eer gy 't Natuurelyke, en Zedelyke zoet
+Uit dezen bloemhof zoogt, en in dit loofwerk fpeelden.
+Wie zal uw' zangluft niet in ruimer Dichters velt!
+Verrukken door u lier? nu 't cierlyk dichtloof zwelt,
+En dit verbloemde werk Natuur en Kunft leert paeren.
+Volgt dan de vonden vry van Ripaes ryken geeft,
+Nu gy het taelcieraet van Poot in 't Neêrduitsch leeft,
+En 't heerlyk Raetzelwerk uit d' outheit ziet verklaeren.
+P. SCHIM.",870,863,6,885,0.99,0.01,1.02
+London_1709_P__Tempest_21_png.rf.hWnSf09xgY5t6hQBa99s.png,en,image_with_caption,8. Mirth u 1100 e. atil Sssistance Y. 2.,"5. Despair.
+
+6. Agriculture.
+
+7. Assistance.
+
+8. Mirth.","5. Despair.
+
+6. Agriculture.
+
+7. Assistance.
+
+8. Mirth.","5. Despair.
+6. Agriculture.
+2
+7. Assistance.
+8. Mirth.",40,54,55,55,1.35,1.38,1.38
+London_1709_P__Tempest_34_png.rf.7072iFCXso3wEZuJYORr.png,en,image_with_caption,"Doral Emblenis. FIG. 33. Auttorita, o Potesta': AMTHORIII. A Matron scated in a noble Chair, richly clothed, with a Gold imbroider’d Garment, holding a Sword in her right Hand, a double Trophy of Books and Arms by her Side. Her Age denôtes Authority, as does the Throne; her splendid Habit, the Preeminence Persons in Authority have over others. The Sword lifted up shews the sovereign Porer; the Scepter, a Badge of Authority. FIe. 34. Augurio buono: GOODAUGURI A young Man all in green, a Star over his Head, hugging a Swan. Green is a Token of Hope, and consequently of good Luck, because Greenness promises a plentiful Crop. The Star denotes good Success, and not to be born under a three-penny Planct. The Whiteness of the Swan¬ is a Sign of good Luck, as a black Crow betokens bad. FIG. 25. Benevolenza, et Unione matrimoniale. MNION. A comly Lady crown’d with Vine and Elm Leaves; Her lest Arm demonstrates some courteous Action, and her right the Tenderness to a Halcyon. The Vine and the Elm are Emblems of mutual Union, by reason of the natural Sympathy between them— Nec melius teneris junguntur vitibus ulmis. The Halcyon or Kings-fifher, alludes to a Woman call’d Halcyone, who, dreaming that her Husband, whom she loved dearly, was dead at Sea, threw herself headlong into it for Grief. Martial. FIG. 26. Benevolenza o Affettione: AFFECTION. A comly ancient Lady, wing’d, holding in her Hands a Woodcock, at her Feet is à Lizard. Her Age shews that she is constant; wing’d, because Affection is produc’d in an Instant. The Cock and Lizard are Emblems of Goodmil, by Instinct. Her Posture shews that Benevolence between tmo a long time, becomes, at last, one true Friendship.","9
+
+Moral Emblems.
+
+FIG. 33. Auttorita, o Potesta: AUTHORITY.
+
+A Matron seated in a noble Chair, richly clothed, with a Gold
+imbroider'd Garment, holding a Sword in her right Hand, a double
+Trophy of Books and Arms by her Side.
+
+Her Age denotes Authority, as does the Throne; her splendid Habit,
+the Preeminence Persons in Authority have over others. The Sword lifted
+up shews the sovereign Power; the Scepter, a Badge of Authority.
+
+FIG. 34. Augurio buono: GOOD AUGURY.
+
+A young Man all in green, a Star over his Head, hugging a Swan.
+
+Green is a Token of Hope, and consequently of good Luck, because
+Greenness promises a plentiful Crop. The Star denotes good Success, and
+not to be born under a three-penny Planet. The Whiteness of the Swan
+is a Sign of good Luck, as a black Crow betokens bad.
+
+FIG. 35. Beneuolenza, & Unione matrimoniale. UNION.
+
+A comly Lady crown'd with Vine and Elm Leaves; Her left Arm
+demonstrates some courteous Action, and her right the Tenderness to a
+Halcyon.
+
+The Vine and the Elm are Emblems of mutual Union, by reason of
+the natural Symathy between them
+
+Nec melius teneris junguntur uitibus ulmis.
+
+The Halcyon or Kings-fisher, alludes to a Woman call'd Halcyone, who,
+dreaming that her Husband, whom she loved dearly, was dead at Sea,
+threw herself headlong into it for Grief. Martial.
+
+FIG. 36. Beneuolenza o Affettione: AFFECTION.
+
+A comly ancient Lady, wing'd, holding in her Hands a Woodcock,
+at her Feet is a Lizard.
+
+Her Age shews that she is constant; wing'd, because Affection is
+produed in an Instant. The Cock and Lizard are Emblems of Goodwil,
+by Instinct. Her Posture shews that Beneuolence between two a long time,
+becomes, at last, one true Friendship.","### F1G. 33. Autorita, o Potesfa': AUTHORITY
+
+A Matron seated in a noble Chair, richly clothed, with a Gold embroider'd Garment, holding a Sword in her right Hand, a double Trophy of Books and Arms by her Side.
+
+Her Age denotes Authority, as does the Throne; her splendid Habit, the Preeminence Persons in Authority have over others. The Sword lifted up shows the sovereign Power; the Scepter, a Badge of Authority.
+
+### F1G. 34. Augurio buono: GOOD AUGURY
+
+A young Man all in green, a Star over his Head, hugging a Swan.
+
+Green is a Token of Hope, and consequently of good Luck, because Greenens promises a plentiful Crop. The Star denotes good Success, and not to be born under a three-penny Planet. The Whiteness of the Swan is a Sign of good Luck, as a black Crow betokens bad.
+
+### F1G. 35. Benevolenza, & Unione matrimoniale. UNION
+
+A comly Lady crown'd with Vine and Elm Leaves; Her left Arm demonstrates some courteous Action, and her right the Tenderness to a Halcyon.
+
+The Vine and the Elm are Emblems of mutual Union, by reason of the natural Sympathy between them——
+
+Nec melius teneris junguntur vitibus ulmis.
+
+The Halcyon or Kings-fisher, alludes to a Woman call'd Halcyone, who, dreaming that her Husband, whom she loved dearly, was dead at Sea, threw herself headlong into it for Grief. Martial.
+
+### F1G. 36. Benevolenza o Affettione: AFFECTION
+
+A comly ancient Lady, wing'd, holding in her Hands a Woodcock, at her Feet is a Lizard.
+
+Her Age shews that she is constant; wing'd, because Affection is produced in an Instant. The Cock and Lizard are Emblems of Goodwill, by Instinct. Her Posture shews that Benevolence between two a long time, becomes, at last, one true Friendship.","Moral Emblems.
+
+FIG. 33. Autorita, o Potesta': AUTHORITY.
+A Matron seated in a noble Chair, richly clothed, with a Gold embroider'd Garment, holding a Sword in her right Hand, a double Trophy of Books and Arms by her Side.
+Her Age denotes Authority, as does the Throne; her splendid Habit, the Preeminence Persons in Authority have over others. The Sword lifted up shews the Sovereign Power; the Scepter, a Badge of Authority.
+
+FIG. 34. Augurio buono: GOOD AUGURY.
+A young Man all in green, a Star over his Head, hugging a Swan.
+Green is a Token of Hope, and consequently of good Luck, because Greenness promises a plentiful Crop. The Star denotes good Success, and not to be born under a three-penny Planet. The Whiteness of the Swan is a Sign of good Luck, as a black Crow betokens bad.
+
+FIG. 35. Benevolenza, & Unione matrimoniale. UNION.
+A comly Lady crown'd with Vine and Elm Leaves; Her left Arm demonstrates some courteous Action, and her right the Tenderness to a Halcyon.
+The Vine and the Elm are Emblems of mutual Union, by reason of the natural Sympathy between them—
+Nec melius teneris junguntur vitibus ulmis.
+The Halcyon or Kings-fisher, alludes to a Woman call'd Halcyone, who, dreaming that her Husband, whom she loved dearly, was dead at Sea, threw herself headlong into it for Grief. Martial.
+
+FIG. 36. Benevolenza o Affettione: AFFECTION.
+A comly ancient Lady, wing'd, holding in her Hands a Woodcock, at her Feet is a Lizard.
+Her Age shews that she is constant; wing'd, because Affection is produced in an Instant. The Cock and Lizard are Emblems of Goodwill, by Instinct. Her Posture shews that Benevolence between two a long time, becomes, at last, one true Friendship.",1690,1691,1700,1697,1.0,1.01,1.0
+London_1777-1778_George_Richardsonv1_107_png.rf.g1Kapj27TfA7XyQIwguI.png,en,image_with_caption,XI. E = MEREI MRRTEE — mamncim Qommenuunxmummmmid ratcta -d de dn Ar-is: nyé.,"XI.
+
+Published as the Act direct Nov. 23. 1776.",Published as the Act directs Nov. 25: 1776.,"XI.
+37
+38
+39
+40
+Published as the Act directs Nov. 25. 1776.",78,59,47,43,0.76,0.6,0.55
+London_1777-1778_George_Richardsonv2_107_png.rf.GNtE6uFM3jsTf7FkjAbC.png,en,image_with_caption,,"GENEROSITY.
+LIX.
+HOSPITALITY.
+AMBITION.
+CONTEMPT OF THE WORLD.
+Published as the Act Direct 12. Dec. 1778.","H. Hamilton J. J.
+
+AMBITION.
+
+Published as the Act Directs 12 Dec 1778.
+
+C. Grigmen Strup","GENEROSITY.
+LIX.
+HOSPITALITY.
+
+225.
+227.
+
+225.
+226.
+
+AMBITION.
+CONTEMPT OF THE WORLD.
+Published as the Act Directs 12th Dec 1778.",0,129,105,89,129.0,105.0,89.0
+Padova_1611_Cesare_Ripa_46_png.rf.wNtqN0SoYCD3fH53emoI.png,it,text_heavy_structured,"10 Iconologia A GRICOLT RA. deiso unncmle 2 V ONNA vestita di verde, con vna ghirlanda di spighe di grano in ca 1po, nella sinistra mano tenga il circolo de i dodeci segni celesti, ab¬ bra cciando con la destra vn arboscello, che fiorisca, mirandolo fisso, a piedi vi sarà vn aratro. Il vestimento verde significa la speranza, senza la quale non sarebbe chi si desse giamai alla fatica del lauorare, et coltiuar la terra. La corona di spighe si dipinge per lo principal fine di quest’arte, ch’è di far moltiplicar le biade, che son necessarie a mãtener la vita dell’huomo. L’abbracciar l’arboscello fiorito, et il riguardarlo fisso, significa l’amor dell’a gricoltore verso le piante, che sono quasi sue figlie, attendendone il desi a to frutto, che nel fiorir gli promettono. I dodeci segni sono i varij tempi dell’anno, et le stagioni che da essa agri coltuia si considerano. L’aratro si depinge come instrumento principalissimo per quest arte. Agri¬",,,,955,0,0,0,0.0,0.0,0.0
+Padova_1611_Cesare_Ripa_65_png.rf.rj56f305Ov0dABzvEmK9.png,it,text_heavy_structured,"Di Cesare Ripa. 29 ARME. Come depinte in Firenze dal gran Duca Ferdinando. VOM O armato d’aspetto tremendo con l'elmo in capo, con la de¬ EI stra mano tiene vn tronco di lancia posato alla coscia, et con la sini stra vno scudo, in mezzo del quale vi è depinta vna testa di lupo. Essendo questa figura simile à quella di Marte si potrà intendere per ef sa l’arme, come Dio d’esse. 2 ut A RROGANZA. ~ ☙ M ONNA vestita di color di verderame, hauerà l'orecchie d’afino, D terrà sotto il braccio siuistro vn pauone, et con la destra mano alta mostrer à il dito indice. L’Arroganza è vitio di coloro, che se bene si conoscono di poco valo¬ re, nondimeno per parere assai presso à gl’altri, pigliano il carico d’im¬ prese difficili, et d’importanza, et ciò dice S. Tomasso 2.2. qu.112.art.1. Arrogans est, qui sibi attribuit, quod non habet. Però con ragione si d'pinge con","Di Cesare Ripa. 29
+
+ARM E.
+Come depinte in Firenze dal gran Duca Ferdinando.
+H VOMO armato d'aspetto tremendo con l'elmo in capo, con la destra mano tiene un tronco di lancia posato alla coscia,& con la sinistra uno scudo, in mezzo del quale ui è depinta una testa di lupo.
+Essendo questa figura simile à quella di Marte si potrà intendere per essa l'arme, come Dio d'esse.
+
+ARROGANZA.
+
+DONNA vestita di color di verderame, hauerà l'orecchie d'asino, terrà sotto il braccio siuistro un pauone,& con la destra mano alta mostrerà il dito indice.
+
+L'Arroganza è vitio di coloro, che se bene si conoscono di poco valore, nondimeno per parere assai presso à gl'altro, pigliano il carico d'imprese difficili,& d'importanza,& ciò dice S.Tomasso 2.2. qu.112. art.1. Arrogans est, qui sibi attribuit, quod non habet. Però con ragione si d'pinge con","# Di Cefare Ripa.
+
+ARM E.
+
+Come depinte in Firenze dal gran Duca Ferdinando.
+
+H V O M O armato d'aspetto tremendo con l'elmo in capo, con la de-
+
+stra mano tiene vn tronco di lancia posato alla coscia,& con la fini
+
+stra vno scudo, in mezzo del quale vi è dipinta vna testa di lupo.
+
+Essendo questa figura simile à quella di Marte si potrà intendere per esfa l'arme, come Dio d'esse.
+
+ARROGANZA.
+
+DONNA vestita di color di verderame, hauerà l'orecchie d'asino, terrà sotto il braccio giustro vn pauone, & con la destra mano alta mostrarà il dito indice.
+
+L'Arroganza è vitio di coloro, che se bene si conoscono di poco valore, nondimeno per parere affai preso à gl'altri, pigliano il carico d'imprese difficili, & d'importanza, & ciò dice S. Tommaso 2.2. qu. 112. art. 1. Arrogans est, qui sibi attribuit, quod non habet. Però con ragione fi d'pinge","Di Cefare Ripa. 
+ ARM E. 
+ Come depinte in Firenze dal gran Duca Ferdinando. 
+ H V O M O armato d'aspetto tremendo con l'elmo in capo, con la destra mano tiene vn tronco di lancia pofato alla cofcia, &amp; con la finiftra vno fcudo, in mezzo del quale vi è depinta vna tefta di lupo. 
+ Effendo questa figura fimile à quella di Marte fi potrà intendere per effa l'arme, come Dio d'effe. 
+ ARROGANZA. 
+ Donna veftita di color di verderame, hauerà l'orecchie d'afino, terrà fotto il braccio fiiiftro vn pauone, &amp; con la deftra mano alta moftierà il dito indice. 
+ L'Arroganza è vizio di coloro, che fe bene fi conoscono di poco valore, nondimeno per parere affai preffo à gl'altri, pigliano il carico d'imprefe difficili, &amp; d'importanza, &amp; ciò dice S. Tomaffo 2.2. qu. 112. art. 1. Arrogans est, qui fibi attribuit, quod non habet. Però con ragione fi d'pinge con",876,872,839,849,1.0,0.96,0.97
+Padova_1625_Cesare_Ripa_67_png.rf.vyNab4jRhrzaRLXuw6qG.png,it,mixed_complex,"Iuini uilo 1 DELLA NOVISSIMA ICONOLOGIA DI CESARE RIPA PERVGINO, Caualier de SS. Mauritio, e Lazzaro. PARTE PRIMA 2 1 ABONDANZA. . ONNA gratiosa, che hàuendo d’vna D bella ghirlanda di vaghi fiori cinta la, fronte, et il vestimento di color verde, ricamã¬ to d’oro, con la destra mano tenga il corno del la douitia pieno di molti et diuersi frutti, vue, oliue, et altri; et col sinistro braccio stringa¬ vn fascio di spighe di grano, di miglio, pani¬ ranno molte di dette spighe vscité cadere, et sparse anto per terra» ... . Bella, et gratiosa si debbe dipingere l’Abon¬ danza, si come cosa buonà, et desiderata da cia¬ sc hedu no, quanto brutta, et abomineuole è ri¬ putata la carestia, che di quella è contraria. Hà la ghirlanda de' fiori, percioche sono i co, legumi, et somiglianti, dal quale si vede¬ fiori de i frutti che fanno l’Abondanza messa¬ gieri, A",DELLA NOVISSIMA ICONOLOGIA,"DELLA NOVISSIMA ICONOLOGIA
+
+DI CESARE RIPAPERVGINO,
+
+Caulier de SS. Mauritio, e Lazzaro.
+
+PARTE PRIMA.
+
+ABON DANZA A.
+
+DONNA graciofa, che hauendo d'una bella ghirlanda di vaghi fiori cinta la fronte, & il vestimento di color verde, ricamato d'oro, con la destra mano tenga il corno del la douitfa pieno di molti & dinterfi frutti, due, olive, & altri; & col finimento braccio stringa vn fascio di spighe di grano, di miglio, pani co, legumi, & somiglianti, dal quale fi vederanno molte di dette spighe viscide cadere, & farse anto per terra.
+
+
+
+Bella, & gratiosa fi debbe dipingere l'Abondanza, fi come cosa buona, & defiderata da ciascheduno, quanto brutta, & abomineuole è riputata la carestia, che di quella è contraria.
+
+Hà la ghirlanda de' fiori, percioche sono i
+
+fiori de i frutti che fanno l'Abondanza messa-
+
+A gieri,","DELLA NOVISSIMA ICONOLOGIA
+DI CESARE RIPA PERVGINO,
+Cauallier de SS. Mauritio, e Lazzaro.
+PARTE PRIMA.
+ABONDANZA.
+DONNA gratiosa, che hauendo d'vna
+bella ghirlanda di vaghi fiori cinta la
+fronte, & il vestimento di color verde, ricama-
+to d'oro, con la destra mano tenga il corno del
+la douitia pieno di molti & diuersi frutti, vve,
+oliue, & altri; & col sinistro braccio stringa
+vn fascio di spighe di grano, di miglio, pani-
+co, legumi, & somiglianti, dal quale si vede-
+ranno molte di dette spighe vscite cadere, &
+sparse anco per terra.
+Bella, & gratiosa si debbe dipingere l'Abon-
+danza, si come cosa buona, & desiderata da cia-
+scheduno, quanto brutta, & abomineuole è ri-
+putata la carestia, che di quella è contraria.
+Ha la ghirlanda de' fiori, percioche sono i
+fiori de' i frutti che fanno l'Abondanza messag-
+gieri,",869,825,26,827,0.95,0.03,0.95
+Padova_1625_Cesare_Ripa_80_png.rf.gMqBlO6FnBfdUe3B8DQ0.png,it,mixed_complex,"14 Della nouissima Iconologia se nell’a dulterio 2. Reg.cap.2. Grasso lo figuriamo, eslendo che l’otio hà re à far il medesimo effetto dell’otio, onde E¬ zech. a 1b.Sorores gula, et ociositas quasi duo ligna incendunt ignem luxuria. La qual sen¬ tentia comprende l’adulterio come compreso sotto il genere della lussuria, et il Petrarca nel Trionfo della Castità, sopra di ciò così dice. ambe le mani tenga dell’assentio, Il capo chino, e l’aspetto di mala voglia, ci conias e dispiacere, che chiude la via al cuore, per ogni sorte di consolatione,e di dolcezza, è per dare ad intendere, che l’affanno è vn di¬ spiacere più intenso de gl’altri; vi si dipinge I’assentio per segno d’amaritudine del dolore, che per significart quest'istesso disse il Pe¬ trarcas. per sorella la gola, la quale anch'ella concor¬ dimostra, che l’affanno e vna spetie di malin¬ La gola, il sonno, e l’otiose piume Hanno dat mondo ogni virtù sbandita. Lagrimar sempre è il mio sommo diletto Il rider doglia, il cibo assentio, e tosco. — Affanao. Di maniera che, volendo noi fuggir questo errore cosi grande, conuiene di stare con ogni prontezaa occupato nell’attioni nobili, et vir¬ tuose, e fcacciar con ogni diligenza i pensiéri, che ci vengono auantis, i quali sono molto dannosi, non solo al corpo, ma quel che più importa all’anima, e però si deue seguitar il bellissimo documento di Santo Agostino libr. de Verb. Dom. Sermone 22 che dice, Ne oltra bondante, è causa materiale di questo vitio, e sà ogn’vno, che senza la materiá non si produ¬ ce cosa nissuna. IV o no mesto, malinconioso, e tutto rab¬ II buffato, con ambe le mani s’apre il pet¬ to,e si mira il euore circondato da diuersi ser¬ pi"" Sar à vestito di berettino vicino al negronil detto vestimento farà stracciato, solo per di¬ mostrare il dispregio di se stesso, et che quan¬ tendere alla coltura del corpo; et il eolor ne¬ gro signisica l’vltima rouina, et le tenebre del¬ la morté, alla quale conducono i rammarichi, et i cordogli. il tuo bisogno satiar il ventre, perche il soprab¬ do vno è in trauagli dell’animo, non pũò at¬ Tiene con la destra mano la Murena con¬ giunta con il serpe, perche da questo congiun¬ gimento pare, che Basilio ne interpreti l’Adul¬ terio, essendo che auuertisce gl’adulteri, che¬ guardino à qual fiera si rendono simili, poscia¬ stessi veleno di rabbia, e di rancore. che gli pare che questo congiongimento del¬ la Vipera, e della Murena sia vn certo Adulte¬ rio della natura, e questo è quello che gli E- gittij per questo simulacro ci vogliono dare ad intendere. La fede d’oro, rotta, et aperta, come dicemmo, altro non significa, che rom¬ pere, et violare le Sante Leggi, il Matrimonio et in somma la fedeltà, che deue essere fra ma¬ rito; e moglie, e perciò è biasiméuole questo mancamento, perche è contro alla fede mari- tale, che si dinota per l’anello, che per questo si pone in quel dito, che hà vna vena, che arri¬ ua insino al cuore. Laprallegatione 57.num.4. doue allega il c.st min. 30.q.s. dimostrandocit dalla più cara parte del corpo, che è il cuore s’impegna per l’osseruanza della fede promes¬ sa, però tutti gl’altri errori si possono ricorreg¬ gere, mà questo non mai, come afferma Q. Curtio nobilissimo scrittore, nel lib.6. de gestis Alex andri Magni, sed nullis meritis perfidia mitigari potest. Il péttojaperto, et il cuore dalle serpi cintos dinotano i fastidij, e trauagli mondani, che¬ sempre mordendo il cuore infondono in noi AFFABILITA' PIACEVOLEZZA, Amabilità, IOVANE vestita d’vn velo bianco,e sot¬ tile, e con faccia allegra, nella destra¬ mano terrà vna rosa, et in capo vna ghirlanda di fiori: Affabilità è habito fatto nella discre¬ tione del conuersar dolcemente, con desiderio di giouare, e dilettare ogn’vno secondo il grado. Giouane si dipinge percioche eitendo la3 giouentù ancor nuoua ne i diletti, e piaceri mondani, grata, e piaceuole ogn'hor si dimo¬ stra. Il velo, che la ricuopre. significa che gl'¬ huomini affabili sono poco meno che nudi nelle parole,e nell’opere loto, e perciò ama¬ bili, e piaceuoli si dimandano quelli, che à luo go, e tempo, secondo la propria conditione, e I'altrui, quanto, e quando si conuiene, sanno gratiosamente ragionare senza offendere al¬ cuno, gentilmente, e con garbo scoprendo se stessi. Si dimostra ancora, che l’animo si deue Vo Mo vestito di berettino,vicino al ne¬ sol tanto ricoprire, quanto non ne resti palese ΑFFANNO. Fl gro, co'l capo chino, et volto mesto, et in la vergogna, et che di grandissimo aiuto alla piá",se nell'adulterio 2.Reg.cap.2.,"# Della nouifsima lconologia
+
+se nell'adulterio 2. Reg. cap. 2.
+
+Graffio lo figuriamo, essendo che l'otio ha per sorelia la gola, la quale anch'ella concorre a far il medefimo effetto dell'otio, onde Ezech. a 16. Sorees gula, & octoas quasi duo ligna incendunt ignem luxuria. La qual sententia comprende l'adulterio come compreso sotto il genere della lusuria, & il Petrarcà nel Trionfo della Castità, sopra di ciò così dice.
+
+La gola, il sonno, e l'otiose piume
+
+Hanno dal mondo ogni virtù shandita.
+
+Di maniera che, volendo noi fuggir questo errore così grande, conuiene di stare con ogni prontezza occupato nell'azioni nobili, & virtuose, e scacciar con ogni diligenza i pensieri, che ci vengono auanti, i quali sono molto dannosi, non solo al corpo, ma quel che più importa all'anima, e però si deue seguitar il bellissimo documento di Santo Agostino libri. de Verb. Dom. Sermone 22 che dice, Ne oltre il tuo bisogno satiar il ventre, perche il soprabbondante, è causa materiale di questo vitio, e sa ogni vno, che senza la materia non si produce cosa nifiuna.
+
+Tiene con la destra mano la Murena congiunta con il ferpe, perche da questo congiunto pare, che Basilione interpreti l'Adulterio, essendo che auertisse gl'adulteri, che guardino à qual fiera si rendono simili, poesia che gli pare che questo congiungimento della Vipera, e della Murena sia vn certo Adulterio della natura; e questo è quello che gli Egitij per questo simulacro ci vogliono dare, ad intendere La fede d'oro, rottà, & aperta, come dicemmo, altro non significa, che romere, & violare le Sante Leggi, il Matrimonio & in somma la fedelta, che deue essere fra marito; e moglie, e perciò è biafimeuole questo mancamento, perche è contro alla fede mariale, che si dinota per l'anello, che per questo si pone in quel dito, che ha vna vena, che arriua infino al cuore. Lap. allegazione 57. num. 4. dove allega il c. femin. 30. q. s. dimostrandoci dalla più cara parte del corpo, che è il cuore, s'impegna per l'osferuanza della fede promessa, però tutti gli altrierrori si posono ricorrere, ma questo non mai, come afferma Q. Curtio nobilissimo scrittore, nel lib. 6. de gestus Alexandri Magni, sed nullis meritis perfidia mitigari potest.
+
+AFFANNO.
+
+H V o m o v e f t i o d i b e r e t t i n o, v i c i n o a l n e g r o, c o l c a p o c h i n o, & v o l t o m e s t o, & i n a m b e l e m a n i t e n g a d e l l a s s e n t i o .
+
+Il capo chino, e l'aspetto di mala voglia, ci dimostra, che l'affanno è una specie di malinconia, e dispiacere, che chiude la via al cuore, per ogni forte di confolazione, e di dolcezza, e per dare ad intendere, che l'affanno è vn dispiacere più intenso de gl'altri; vi si dipinge l'aspetto per segno d'amartindine del dolore, che per significare quest'istesso disse il Petrarcà.
+
+Lagrimar sempre è il mio sommo diletto
+
+Il rider doglia, il cibo affentio, e tosco.
+
+Affanno.
+
+H V o m o m e s t o, m a l i n c o m i o s o, e t u r t o r a b b u f f a t o, c o n a m b e l e m a n i s a p r e i l p e t t o, e s i m i r a i l c u o r e c i r c o n d a t o d a d i u e r s i s e r p i. S a r a v e f f i t o d i b e r e t t i n o v i c i n o a l n e g r o, d i d e t t o v e f t i m e n t o s a r a s t r a c c i a t o , s o l o p e r d i m o s t r a r e i l d i s p r e g i o d i s e f t e s s o, & c h e q u a n d o v n o è i n t r a u a g l i d e l l a n i m o, n o n p u d a t e n d e r e a l l a c o l t u r a d e l c o r p o; & i l c o l o r n e g r o s i g n i f i c a l v l t i m a r o u i n a, & l e t e n e b r e d e l l a m o r t e, a l l a q u a l e c o n d u c o n o i r a m m a r i c h i, & i c o r d o g l i.
+
+Il petto aperto, & il cuore dalle ferpi cinto, dinotano i fatti di j, e trauagli mondani, che sempre mordendo il cuore infondono in noi stessi veleno di rabbia, e di rancore.
+
+AFFABILITA'PIACEVOLEZZA,
+
+Amabilità,
+
+GIOVANE è vestita d'un velo bianco, e stile, e con faccia allegra, nella destra mano terra vna rosa, & in capo vna ghirlanda di fiori: Affabilità è habito fatto nella discre- tione del conuerfar dolcemente, con desiderio di giouare, e diletare ogn'vno secondo il grado.
+
+Giovane si dipinge 'percioche essendo la giouentù ancor nuova ne i diletti, e piaceri mondani, grata, e piaceuole ogn'hor fi dimostra. Il velo, che la riuopre, significa che gli-huomini affabili sono poco meno che nudi nelle parole, e nell'opere loro, e perciò amabili, e piaceuoli si dimandano quelli, che à luogo, e tempo, secondo la propria condizione, e l'altrui, quanto, e quando si conuiene, fanno gratiosamente ragionare senza offendere alcuno, gentilmente, e con garbo scoprendo stessi. Si dimostra ancora, che l'animo fi deue fol tanto ricoprire, quanto non ne resti palese la vergogna, & che di grandissimo aiuto alla","Se nell'adulterio 2.Reg.cap.2. 
+ Grasso lo figuriamo, essendo che l'otio ha per sorella la gola, la quale anch'ella concor- re a far il medesimo effetto dell'otio, onde E- zech. a 16. Sorores gula, &amp; ociofitas quasi duo ligna incendunt ignem luxuria. La qual sen- tentia comprende l'adulterio come compreso sotto il genere della lussuria, &amp; il Petrarca nel Trionfo della Castità, sopra di ciò così dice. 
+ La gola, il sonno, e l'otiose piume 
+ Hanno dal mondo ogni virtù sbandita. 
+ Di maniera che, volendo noi fuggir questo errore così grande, conviene di stare con ogni prontezza occupato nell'azioni nobili, &amp; vir- tuose, e scacciar con ogni diligenza i pensieri, che ci vengono avanti, i quali sono molto dannosi, non solo al corpo, ma quel che più importa all'anima, e però si deve seguitar il bellissimo documento di Santo Agostino libr. de Verb.Dom.Sermone 22. che dice, Ne oltra il tuo bisogno satiaril ventre,perche il soprab- bondante, è causa materiale di questo vitio, e sa ogn'uno, che senza la materia non si produ- ce cosa nessuna. 
+ Tiene con la destra mano la Murena congiunta con il serpe,perche da questo congiun- gimento pare, che Basilio ne interpreti l'Adul- terio,essendo che auuertisce gl'adulteri, che guardino a qual fiera si rendono simili,poiscia che gli pare che questo congiungimento del- la Vipera,e della Murena sia vn certo Adulte- rio della natura; e questo è quello che gli Egittij per questo simulacro ci vogliono dare ad intendere. La fede d'oro,rotta,&amp; aperta, come dicemmo,altro non significa, che rom- pere,&amp; violare le Sante Leggi,il Matrimonio &amp; in somma la fedeltà,che deve essere fra marito; e moglie, e perciò è biasimeuole questo mancamento, perche è contro alla fede maritale, che si dinota per l'anello, che per questo si pone in quel dito, che ha vna vena, che arri- ua infino al cuore.Lap.allegatione 57.num.4. doue allega il c.femin.30.q.5. dimostrandoci dalla più cara parte del corpo,che è il cuore, s'impegna per l'osservanza della fede promes- sa,però tutti gl'altri errori si possono ricorreg- gere, mà questo non mai, come afferma Q. Curtio nobilissimo scrittore, nel lib.6. de gestis Alexandri Magni, sed nullis meritis perfidia mitigari potest. 
+ AFFANNO. 
+ H Vomo vestito di berettino,vicino al ne- gro,co'l capo chino,&amp; volto mesto,&amp; in 
+ ambe le mani tenga dell'affentio. 
+ Il capo chino, e l'aspetto di mala voglia,ci dimostra, che l'affanno è vna spezie di malinconia,e dispiacere,che chiude la via al cuore, per ogni sorte di consolatione,e di dolcezza, è per dare ad intendere,che l'affanno è vn di- spiacere più intenso de gl'altri;vi si dipinge l'affentio per segno d'amaritudine del dolore, che per significare quest'istesso disse il Petrarca. 
+ Lagrimar sempre è il mio sommo diletto 
+ Il rider doglia, il cibo affentio, e tofco. 
+ Affanno. 
+ H Vomo mesto, malinconioso,e tutto rab- buffato,con ambe le mani s'apre il pet- to,e si mira il cuore circondato da diuersi ser- pi. Sarà vestito di berettino vicino al negro,il detto vestimento sarà stracciato, solo per di- mostrare il disprezio di se stesso, &amp; che quan- do vno è in trauagli dell'animo, non può at- tendere alla coltura del corpo; &amp; il color ne- gro significa l'ultima rouina,&amp; le tenebre del- la morte,alla quale conducono i ramarrochi, &amp; i cordogli. 
+ Il petto aperto,&amp; il cuore dalle serpi cinto, dinotano i fastidij, e trauagli mondani, che sempre mordendo il cuore infondono in noi stessi veleno di rabbia,e di rancore. 
+ AFFABILITA' PIACEVOLEZZA, 
+ Amabilità, 
+ G Iovane vestita d'vn velo bianco,e for- tile,e con faccia allegra, nella destra mano terrà vna rosa,&amp; in capo vna ghirlanda di fiori:Affabilità è habito fatto nella discre- tione del conuersar dolcemente,con desiderio di giouare, e dilettare ogn'uno secondo il grado. 
+ Giouane si dipinge percioche essendo la gioventù ancor nuoua ne i diletti, e piaceri mondani,grata, e piaceuole ogn'hor si dimo- stra. Il velo, che la ricuopre.significa che gl'huomini affabili sono poco meno che nudi nelle parole,e nell'opere loro, e perciò ama- bili,e piaceuoli si dimandano quelli, che a luo- go,e tempo, secondo la propria conditione, e l'altrui, quanto, e quando si conviene, fanno gratiosamente ragionare senza offendere alcuno,gentilmente,e con garbo scoprendo se stessi. Si dimostra ancora, che l'animo si deve sol tanto ricoprire, quanto non ne resti palese la vergogna, &amp; che di grandissimo aiuto alla pia",4528,4463,30,4739,0.99,0.01,1.05
+Parma_1759_J__B__Boudardv1_35_png.rf.9RhLhJTg7bj6hMl9qdCk.png,fr,mixed_complex,"ICONOLOGIE ma ACCORD: Eux jeunes filles, dont l'une ac¬ I corde une orgue, au ton d’une sor¬ te de flageolet qui est a cet usage, et que les Italiens nomment corista; l'autre prend le ton de l'orgue pour y accorder un luth. Ces deux inftruments sont les plus harmonieux, et les plus suscéptibles des differents accords. ACCORDO. Ue Giovani, una delle quali accor¬ D da un organo al tuono del corista; l'aitra si serve dell' istesso tuono per ac¬ cordarvi un liuto. Questi due stromenti sono i piu atti alla perfetta armonia, per la varietà delle loro consonanz? Doused p GOO","6 ICONOLOGIE
+
+ACCORD: ACCORDO:
+
+DEux jeunes filles, dont l' une acorde une orgue, au ton d'une forte de flageolet qui est a cet usage, & que les Italiens nomment corista; l'autre prend le ton de l'orgue pour y accorder un luth.
+
+Ces deux instrumens sont les plus harmonieux, & les plus susceptibles des differents accords.
+
+DEue giovani, una delle quali accorda un organo al tuono del corista; l' altra si serve dell' istesso tuono per accordarui un linto.
+
+Questi due strumenti sono i piu atti alla perfetta armonia, per la uarietã delle loro consonanze.","# 6 I CONOLOGIE
+
+## ACCORD:
+
+D'Exx jeunes filles, dont l'une ac-corde une orgue, au ton d'une for-te de flageolet qui est a cet usage, & que les Italiens nomment corista ; l'autre prend le ton de l'orgue pour y accorder un luth.
+
+Ces deux instruments sont les plus harmonieux, & les plus susceptibles des differents accords.
+
+## ACCORDO:
+
+Due Giovanni, una delle quali accorda un organo al suono del corista; l'altra si serve dell'istejo suono per accordarvi un limo.
+
+Questi due strumenti sono i più atti alla perfetta armonia, per la varietà delle loro consonanze.","6 ICONOLOGIE 
+  
+ ACCORD: 
+ D'Eux jeunes filles, dont l'une accorde une orgue, au ton d'une sorte de flageolet qui est à cet usage, &amp; que les Italiens nomment corista; l'autre prend le ton de l'orgue pour y accorder un luth. 
+ Ces deux instruments sont les plus harmonieux, &amp; les plus susceptibles des différents accords. 
+ ACCORDO: 
+ D'Ue Giovani, una delle quali accorda un organo al suono del corista; l'altra si serve dell'istesso suono per accordarvi un liuto. 
+ Questi due strumenti sono i più atti alla perfetta armonia, per la varietà delle loro consonanze.",576,573,555,566,0.99,0.96,0.98
+Perugia_1764-67_Cesare_Orlandiv1_70_png.rf.wLSlWgKQYvF1MjLJN8Jw.png,it,mixed_complex,"TOMO PRIMO. ACCADEMIA: Di Gio. Zaratino Castellini. 17 –-a 2 O Onna vestita di cangiante, di aspetto, e di età virile, coronata di oro. 1) Nella man destra terrà una lima, intorno al cui manico vi sia scritto¬ DETRAHIT ATQUE POLIT. Nella mano sinistra avrà una Ghirlanda tessie ta di Alloro, Edera, e Mirto: Dalla medesima mano pendino un pajo di Po¬ mi granati. Sederà in una Sedia fregiata di fogliami, e frutti di Cedro, Ci¬ presso, e Quercia, come anco rami di Oliva, in quella parte, ove si ap¬ poggia il gomito, luogo più prossimo alla Figura. Starà in mezzo di un Cor¬ tile ombroso, luogo boscareccio di Villa, con Platani intorno alli piedi. Avrà buona quantità di libri, traꝯ quali risieda un Cinocefalo, ovvero Babbuino. Sarà vestita di cangiante di varj colori, per le varie sciẽnze, che in una dotta Accademia si trattano. Si dipinge di età virile per la perfetta, e matura cognizione delle co¬ se, che si po.seggono, e discorrono in quell’ età, che non è sottoposta alle leggerezze giovanili, ne a' deliramenti senili, ma è dotata di salda mente, e di sano giudizio. Si corona di oro, volendo significare, che quando l'ingegno dell' Acca¬ demico ha da mandar fuori i suoi pensieri, che in capo consistono, ove è la parte intellettiva dell’ animo nostro ( secondo Platone nel Timeo) bisogna, ch' egli li affini, come l’oro, acciocchè possino stare ad ogni prova, e pa¬ ragone.","TOMO PRIMO.
+ACCADEMIA:
+Di Gio. Zaratino Castellini.
+DONNA uestita di cangiante, di aspetto, e di età  uirile, coronata di oro.
+Nella  man  destra terrà  una  lima, intorno al cui manico  ui sia scritto DETRAHIT ATQUE POLIT. Nella  mano sinistra  avrà  una  Ghirlanda tessuta  di Alloro, Edera, e Mirto : Dalla medesima mano pendino un pajo di  pomi  granati. Sederà in una Sedia fregiata di fogliami, e frutti di Cedro, Cipresso, e Quercia, come anco rami di Oliva, in quella  parte, ove si appoggia il  gomito, luogo piu prossimo alla  Figura. Starà in mezzo di un  Cortile  ombroso, luogo boscareccio di Villa, con  Platani  intorno alli piedi. Ayrà  buona quantità di libri, tra' quali risieda un Cinocefalo, ouvero  Babbuino.
+Sarà  uestita di cangiante di  vari  colori, per le  varie  scienze, che in una  dotta  Accademia si trattano.
+Si dipinge di età  uirile per la perfetta, e matura cognizione delle cose, che si posseggono, e discorrono in quell' età, che non è sottoposta alle leggereze giovanili, ne a' deliramenti senili, ma è dotata di salda mente, e di sano giudizio.
+Si corona di oro, uolendo significare, che quando l' ingegno dell' Accademico ha da mandar fuori i suoi pensieri, che in capo consistono, ove  è la parte intelletttiva dell' animo nostro (secondo Platone nel Timeo) bisogna, ch' egli li affini, come l' oro, acciocchè possino stare ad ogni  prova, e paragonare.","# T O M O P R I M O.
+
+# ACCADEMIA:
+
+Di Gio. Zaratino Castellini.
+
+D'Onna vestita di cangiante, di aspetto, e di età virile, coronata di oro. Nella man destra terrà una lima, intorno al cui manico vi sia scritto: DETRAHIT ATQUE POLIT. Nella mano sinistra avrà una Ghirlanda testa di Alloro, Edera, e Mirto: Dalla medesima mano pendino un pajo di Po-mi granati. Sederà in una Sedia fregiata di fogliami, e frutti di Cedro, Ci-prelso, e Quercia, come anco rami di Oliva, in quella parte, ove si appoggia il gomito, luogo più profimo alla Figura. Stara in mezzo di un Cor-tile ombroso, luogo boscareccio di Villa, con Platani intorno all piedi. Avrà buona quantità di libri, tra quali risieda un Cinocefalo, ovvero Babbuino.
+
+Sara veltita di cangiante di varj colori, per le varie scienze, che in una dotta Accademia si trattano.
+
+Si dipinge di età virile per la perfetta, e matura cognizione delle cose, che si po.leggono, e discorrono in quell' età, che non è sottoposta alle leggerezze giovanili, ne a' deliramenti senili, ma è dotata di salda mente, e di fano giudizio.
+
+Si corona di oro, volendo significare, che quando l'ingegno dell'Accademia ha da mandar fuori i suoi pensieri, che in capo consitono, ove è la parte intellettiva dell'animo nostro ( secondo Platone nel Timeo ) bifogna, ch'egli li affini, come l' oro, acciocché possino stare ad ogni prova, e paragone.","TOMO PRIMO. 
+ ACCADEMIA: 
+ Di Gio. Zaratino Castellini. 
+ Onna vestita di cangiante, di aspetto, e di età virile, coronata di oro. 
+ Nella man destra terrà una lima, intorno al cui manico vi sia scritto: 
+ DETRAHIT ATQUE POLIT. Nella mano sinistra avrà una Ghirlanda tessu- ta di Alloro, Edera, e Mirto: Dalla medesima mano pendino un pajo di Po- mi granati. Sederà in una Sedia fregiata di fogliami, e frutti di Cedro, Ci- presso, e Quercia, come anco rami di Oliva, in quella parte, ove si ap- poggia il gomito, luogo più prossimo alla Figura. Starà in mezzo di un Cor- tile ombroso, luogo boscareccio di Villa, con Platani intorno alli piedi. Avrà buona quantità di libri, tra'quali rifieda un Cinocefalo, ovvero Babbuino. 
+ Sarà vestita di cangiante di varj colori, per le varie scienze, che in una dotta Accademia si trattano. 
+ Si dipinge di età virile per la perfetta, e matura cognizione delle co- fe, che si pongono, e discorrono in quell' età, che non è sottoposta alle leggerezze giovanili, ne a' deliramenti senili, ma è dotata di falda mente, e di sano giudizio. 
+ Si corona di oro, volendo significare, che quando l' ingegno dell' Acca- demico ha da mandar fuori i suoi pensieri, che in capo confistono, ove è la parte intellettiva dell' animo nostro ( secondo Platone nel Timeo ) bisogna, ch' egli li affini, come l' oro, acciocchè possano stare ad ogni prova, e pa- ragone.",1404,1389,1394,1372,0.99,0.99,0.98

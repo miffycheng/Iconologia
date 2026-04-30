@@ -1,0 +1,16 @@
+# Environment: ocr_qwen35 (Python 3.11)
+# Model: Qwen/Qwen3.5-9B-Instruct
+#
+# Install:
+#   conda create -n ocr_qwen35 python=3.11 -y
+#   conda activate ocr_qwen35
+#   pip install -r requirements_qwen35.txt
+#
+# On GPU clusters, install PyTorch with the matching CUDA version first:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+transformers>=4.51.0
+torch
+torchvision
+pillow
+accelerate

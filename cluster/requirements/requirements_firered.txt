@@ -1,0 +1,19 @@
+# Environment: ocr_firered (Python 3.11)
+# Model: FireRedTeam/FireRed-OCR
+#
+# Also requires cloning the FireRed-OCR repo for conv_for_infer.py:
+#   git clone https://github.com/FireRedTeam/FireRed-OCR.git ~/FireRed-OCR
+#
+# Install:
+#   conda create -n ocr_firered python=3.11 -y
+#   conda activate ocr_firered
+#   pip install -r requirements_firered.txt
+#
+# On GPU clusters, install PyTorch with the matching CUDA version first:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+transformers
+torch
+torchvision
+qwen-vl-utils
+accelerate

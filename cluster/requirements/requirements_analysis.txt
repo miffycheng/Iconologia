@@ -1,0 +1,12 @@
+# Environment: ocr_analysis (any Python 3.10+, no GPU needed)
+# Used by: analysis/extract_gt.py and analysis/analyze_ocr.ipynb
+# Also required by: slurm/submit_analysis.sh (conda activate ocr_analysis)
+#
+# Install:
+#   conda create -n ocr_analysis python=3.11 -y
+#   conda activate ocr_analysis
+#   pip install -r requirements_analysis.txt
+
+pandas
+lxml
+jupyter

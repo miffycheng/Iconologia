@@ -1,0 +1,17 @@
+# Environment: ocr_qwen3vl8b (Python 3.11)
+# Model: small-models-for-glam/Qwen3-VL-8B-catmus (LoRA adapter on Qwen3-VL-8B-Instruct)
+#
+# Install:
+#   conda create -n ocr_qwen3vl8b python=3.11 -y
+#   conda activate ocr_qwen3vl8b
+#   pip install -r requirements_qwen3vl8b.txt
+#
+# On GPU clusters, install PyTorch with the matching CUDA version first:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+transformers>=4.57.1
+torch
+torchvision
+pillow
+peft
+accelerate

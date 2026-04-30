@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1026A428_pdf_1-510_21_png.rf.iCOgjI6TC2M2ZEJnKcod.png",
+    "language": "it",
+    "layout": "single_column"
+  },
+  {
+    "id": "1026A428_pdf_1-510_23_png.rf.6Mi3Crcp9bOB6VP4SFR0.png",
+    "language": "it",
+    "layout": "image_with_caption"
+  },
+  {
+    "id": "Amsterdam_1644_Dirck_Pieter_Pers_33_png.rf.GFIDMFXNOEEewnv1NLTA.png",
+    "language": "nl",
+    "layout": "mixed_complex"
+  },
+  {
+    "id": "Amsterdam_1657_ca__Cornelis_Danckerts_28_png.rf.H9bG2gM01s3DDDlwWIgz.png",
+    "language": "nl",
+    "layout": "text_heavy_structured"
+  },
+  {
+    "id": "Augsburg_1760_ca__Georg_Hertel_34_png.rf.u8hZXHABMoPhRcCxulMN.png",
+    "language": "de",
+    "layout": "image_with_caption"
+  },
+  {
+    "id": "Augsburg_1760_ca__Georg_Hertel_50_png.rf.CXBkC93DfrKevNiWFnu2.png",
+    "language": "la",
+    "layout": "image_with_caption"
+  },
+  {
+    "id": "Delft_1743-50_Hubert_Korneliszoon_Poot_22_png.rf.Bhk95B9DDvRckiGhCbUA.png",
+    "language": "nl",
+    "layout": "single_column"
+  },
+  {
+    "id": "Delft_1743-50_Hubert_Korneliszoon_Poot_34_png.rf.JzgkV6byTCTK68QQDkSU.png",
+    "language": "nl",
+    "layout": "text_heavy_structured"
+  },
+  {
+    "id": "London_1709_P__Tempest_21_png.rf.hWnSf09xgY5t6hQBa99s.png",
+    "language": "en",
+    "layout": "image_with_caption"
+  },
+  {
+    "id": "London_1709_P__Tempest_34_png.rf.7072iFCXso3wEZuJYORr.png",
+    "language": "en",
+    "layout": "image_with_caption"
+  },
+  {
+    "id": "London_1777-1778_George_Richardsonv1_107_png.rf.g1Kapj27TfA7XyQIwguI.png",
+    "language": "en",
+    "layout": "image_with_caption"
+  },
+  {
+    "id": "London_1777-1778_George_Richardsonv2_107_png.rf.GNtE6uFM3jsTf7FkjAbC.png",
+    "language": "en",
+    "layout": "image_with_caption"
+  },
+  {
+    "id": "Padova_1611_Cesare_Ripa_46_png.rf.wNtqN0SoYCD3fH53emoI.png",
+    "language": "it",
+    "layout": "text_heavy_structured"
+  },
+  {
+    "id": "Padova_1611_Cesare_Ripa_65_png.rf.rj56f305Ov0dABzvEmK9.png",
+    "language": "it",
+    "layout": "text_heavy_structured"
+  },
+  {
+    "id": "Padova_1625_Cesare_Ripa_67_png.rf.vyNab4jRhrzaRLXuw6qG.png",
+    "language": "it",
+    "layout": "mixed_complex"
+  },
+  {
+    "id": "Padova_1625_Cesare_Ripa_80_png.rf.gMqBlO6FnBfdUe3B8DQ0.png",
+    "language": "it",
+    "layout": "mixed_complex"
+  },
+  {
+    "id": "Parma_1759_J__B__Boudardv1_35_png.rf.9RhLhJTg7bj6hMl9qdCk.png",
+    "language": "fr",
+    "layout": "mixed_complex"
+  },
+  {
+    "id": "Perugia_1764-67_Cesare_Orlandiv1_70_png.rf.wLSlWgKQYvF1MjLJN8Jw.png",
+    "language": "it",
+    "layout": "mixed_complex"
+  }
+]
