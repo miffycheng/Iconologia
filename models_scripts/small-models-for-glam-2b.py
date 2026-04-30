@@ -15,7 +15,7 @@ from transformers import AutoProcessor, Qwen3VLForConditionalGeneration
 from peft import PeftModel
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-OUTPUT_JSON = "../ocr_results/transcriptions.json"
+OUTPUT_JSON = Path(__file__).resolve().parent.parent / "ocr_results" / "transcriptions.json"
 BASE_MODEL = "Qwen/Qwen3-VL-2B-Instruct"
 ADAPTER_MODEL = "small-models-for-glam/Qwen3-VL-2B-catmus"
 MAX_NEW_TOKENS = 1024
@@ -80,29 +80,37 @@ def transcribe_image(image_path, model, processor):
 
 def main():
     parser = argparse.ArgumentParser(description="Transcribe medieval manuscript images using a VLM.")
-    parser.add_argument("image_dir", type=str, help="Path to the folder containing images")
+    parser.add_argument("image_path", type=str,
+                        help="Path to a single image file or a folder of images")
     args = parser.parse_args()
 
-    # Collect image paths
-    image_dir = Path(args.image_dir)
-    if not image_dir.exists():
-        print(f"ERROR: Image directory '{args.image_dir}' not found.")
+    # Collect image paths — accept a single file or a directory
+    input_path = Path(args.image_path)
+    if not input_path.exists():
+        print(f"ERROR: '{args.image_path}' not found.")
         return
 
-    image_paths = sorted([
-        p for p in image_dir.iterdir()
-        if p.suffix.lower() in SUPPORTED_EXTENSIONS
-    ])
+    if input_path.is_file():
+        if input_path.suffix.lower() not in SUPPORTED_EXTENSIONS:
+            print(f"ERROR: Unsupported file type '{input_path.suffix}'")
+            return
+        image_paths = [input_path]
+    else:
+        image_paths = sorted([
+            p for p in input_path.iterdir()
+            if p.suffix.lower() in SUPPORTED_EXTENSIONS
+        ])
 
     if not image_paths:
-        print(f"No images found in '{args.image_dir}'")
+        print(f"No images found in '{args.image_path}'")
         return
 
-    print(f"Found {len(image_paths)} images to process.\n")
+    print(f"Found {len(image_paths)} image(s) to process.\n")
 
     # Load existing results if resuming
+    OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
     results = {}
-    if os.path.exists(OUTPUT_JSON):
+    if OUTPUT_JSON.exists():
         with open(OUTPUT_JSON, "r", encoding="utf-8") as f:
             results = json.load(f)
         already_done = sum(1 for v in results.values() if v["status"] == "success")
