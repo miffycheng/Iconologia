@@ -9,7 +9,7 @@ Evaluating OCR models on early modern printed historical documents from the *Ico
 ```
 cluster/
 ├── images/                  # Input images (18 pages)
-├── PDF/                     # TEI-XML ground truth files (one per book)
+├── xml/                     # TEI-XML ground truth files (one per book)
 ├── results/                 # OCR output JSON files (one per model)
 ├── scripts/                 # Inference scripts for each model
 │   ├── run_qwen35.py
@@ -60,7 +60,7 @@ cluster/
 | text_heavy_structured | 4 |
 | single_column | 2 |
 
-The 18 benchmark images are in `images/` and the TEI-XML ground truth files are in `PDF/`. Both are committed to this repo. The images are a curated subset of the Iconologia Roboflow dataset; filenames and metadata are in `metadata.json`.
+The 18 benchmark images are in `images/` and the TEI-XML ground truth files are in `xml/`. Both are committed to this repo. The images are a curated subset of the Iconologia Roboflow dataset; filenames and metadata are in `metadata.json`.
 
 ---
 
